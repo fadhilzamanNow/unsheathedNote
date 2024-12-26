@@ -62,9 +62,10 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 + Resurfaced
 
 
-> Menetes
+> Tetes
 ***
 + Drip
++ Blob
 
 > Batu Tulis
 ***
@@ -87,5 +88,154 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Bewitching
 
+> Menggulung
+***
++ Reeling in
 
+> Hembusan Angin
+***
++ Rustle
+
+> Padi
+
+![Reeds](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTufFAa8EFoUiyweUTFRxdG7lPE3rUE29zkw&s)
+***
++ Reeds 
++ Paddy (area)
+
+> Miring
+***
++ Cocked
++ Tilt
+
+> Jalan Dengan Hati Hati
+***
++ Discreetly
++ Tip-toe 
+
+> Mengepakkan
+***
++ Flapping
++ Fluttering
+
+> Membalikkan
+***
++ Flipping
+ 
+> Terjatuh (Dengan Suara)
+***
++ Flopping
+
+> Berlari (Dengan Langkah Kecil) / Bergegas
+***
++ Scurried
+
+> Mengapung (Di Udara, biasanya bau)
+***
++ Wafted
+
+> Mengepal Gigi 
+***
++ Clenched
++ Gritted
++ Grin
+
+
+> Menyeramkan
+***
++ Ghastly
++ Eerie
+
+> Objek yang bisa diikat
+***
++ To Knot
+
+> Ditenun
+***
++ Weaved
+
+> Kosong
+***
++ Vacant
+
+> Kilau 
+***
++ Glistening
++ Sparkle
++ Dazzling
+
+> Menjadi Kusam/Hitam
+***
++ Glimmering
+
+> Melemparkan
+***
++ Slung
++ Sling
+
+> Ngomong Gak Jelas
+***
++ Waffling
+
+> Roti
+***
++ Buns
+
+> Menangani
+***
++ Tackling
+
+> Menghabiskan
+***
++ Gobble
+
+> Menyayangi
+***
++ Doting
+
+> Lobang Perbedaan
+***
++ Gulf 
++ Gap
+
+> Tidak Mencolok
+***
++ Inconspicious
+
+> Pelahap (makan banyak)
+***
++ Glutton
+
+
+> Kepuasan
+***
++ Gratication
+
+> Mengejek
+***
++ Scoff
+
+> Melahap Makanan
+***
++ Scoff down
+
+> Piring
+***
++ Dish
+
+> Ngorok
+***
++ Snored
+
+> Hama
+***
++ Vermin
+
+> Merangkak
+***
++ Crawled
+
+> Tajam 
+***
++ Pricked
 
