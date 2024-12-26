@@ -338,3 +338,111 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Against
 
+> Jolted
+***
++ Terkaget
+
+> MenggantI Rugi
+***
++ Compensate(Membayar/Mengimbangi)
+
+> Jatuh Cinta
+***
++ Fallen Heads Over Heels
+
+> Shoo
+***
++ Mengusir
+
+> Nakal
+***
++ Sly
+
+> Mengganggu
+***
++ Pester
++ Nag
+
+> Tutup Barang
+***
++ Lid
+
+> Menyempitkan Mata
+***
++ Squinted
+
+> Suara Nada Tinggi
+***
++ Squeak
+
+> Pangsit Cinta
+*** 
++ Wontons
+
+> Berantakan
+****
++ Dishoveled
++ Scruffy
+
+> Kesal
+***
++ Infuriated
+
+> Mengintip
+***
++ Peep
+
+> Menjilat 
+***
++ Obsequiously
+
+> Cerita
+***
++ Recounts
+
+> Terlarang
+***
++ Illicit
+
+> Dengan Panik
+***
++ Frantically
+
+> Sesuatu yang Besar
+***
++ Heap
+
+> Berteriak
+***
++ Hooted
+
+> Mencemooh
+***
++ Heckled
+
+> Berlari dengan Cepat
+***
++ Scooted
+
+> Mereda
+***
++ Subsided
+
+> Kehijauan
+***
++ Verdant
++ Lush
+
+> Tidak Sejalan / Tidak Sesuai
+***
++ Discordant
+
+> Keriput
+***
++ Shriveled
++ Wrinkled
+
+> Menjijikan
+***
++ Vile
++ Repulsive
