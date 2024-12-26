@@ -5,9 +5,8 @@
 # **Target to Finished**
 No| Chapter | Days | Status |
  :---:|:---:| :---: | :--- |
-1| 1-100 | 21-28 Dec 2024| <input type="checkbox" checked > Done  |
-2| 101-200 | 29 Dec- 5 Jan 2024| <input type="checkbox"  >Not Finished Yet |
-
+1| 1-100 | 21-28 Dec 2024| 🚗 _On Progress_ |
+2| 101-200 | 29 Dec- 5 Jan 2024| ❌ _Not Yet_ |
 
 
 ## Chapter 1 - 100  
@@ -28,18 +27,18 @@ A --> D[Other English Terms]
 
 Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com)
 
-<mark>Mengembung</mark> 
+>Mengembang
 ***
-> Bulged  
++ Perpetually
 
 
-<mark>Naik</mark> 
+>Naik
 ***
-> Perked  
-> Perked Up
++ Perked
++ Perked Up
 
-<mark>Terus Menerus</mark>
+>Terus Menerus
 ***
-> Perpetually
++ Perpetually
 
 
