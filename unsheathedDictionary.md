@@ -126,10 +126,10 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Flopping
 
-> Berlari (Dengan Langkah Kecil) / Bergegas
+> Bergegas
 ***
 + Scurried
-
++ Briskily (Lari Dengan Cepat)
 > Mengapung (Di Udara, biasanya bau)
 ***
 + Wafted
@@ -238,4 +238,103 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Tajam 
 ***
 + Pricked
+
+> Bergemuruh
+***
++ Rumble
+
+> Bergumam
+***
++ Muttering
++ Mumbling
+
+> Mengeluh
+***
++ Grumbling
+
+> Pemandangan yang mengganggu
+***
++ Eyesore
+
+> Nyonya
+***
++ Missus
+
+> Mati Rasa
+***
++ Numb
+
+> Omong Kosong
+***
++ Gibberish
+
+> Terbelakang
+***
++ Retard
+
+> Memperoleh
+***
++ Elicit
+
+> Jalan
+***
++ Stride (Melangkah)
++ Stroll (Jalan)
++ Scurried (Jalan dengan langkah kecil)
+
+> Mengepul
+***
++ Billowing
+
+> Memaki 
+***
++ Cuss
+
+> Melolong (kayak au nya serigala)
+***
++ Howling
+
+> Orang Celaka
+***
++ Wretch
+
+> Bahan Lilin
+***
++ Wax
+
+> Pekerjaan Sehari Hari (Rumah Tangga)
+***
++ Chores
+
+> Rumput
+*** 
++ Lawn
+
+> Gak Peduli (Bahagia)
+***
++ Frivolous
+
+> Menanam
+***
++ Sow
+
+> Bingung
+***
++ Mystified
++ Baffled
++ Bewildered
++ Persprelexed
+
+
+> Berfikir
+***
++ Mused (Think Deeply)
+
+> Insinuation
+***
++ Petunjuk Kecil (clue)
+
+> Menentang
+***
++ Against
 
