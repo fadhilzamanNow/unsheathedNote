@@ -29,7 +29,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 
 >Mengembang
 ***
-+ Perpetually
++ Bulging
 
 
 >Naik
@@ -40,5 +40,52 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 >Terus Menerus
 ***
 + Perpetually
+
+>Sendawa
+***
++ Burping
+
+>Tegukan Besar
+***
++ Swig 
+
+>Besar
+***
++ Immense
+
+> Berjalan Perlahan
+***
++ Shuffled Over
+
+> Muncul Kembari
+***
++ Resurfaced
+
+
+> Menetes
+***
++ Drip
+
+> Batu Tulis
+***
++ Slate
+
+> Berair Enak
+***
++ Succulent
+
+> Teredam (Suara)
+***
++ Muffled
+
+> Cemplung
+***
++ Plop
+
+
+> Memikat
+***
++ Bewitching
+
 
 
