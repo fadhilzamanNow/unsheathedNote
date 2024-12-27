@@ -446,3 +446,151 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Vile
 + Repulsive
+
+> Cemberut
+***
++ Sullent
+
+>  Tidak Penting 
+***
++ Trifling
+
+> Memecah
+***
++ Wrack
+
+> Kerinduan
+***
++ Reminisence
+
+> Berbicara Gagap 
+***
++ Stutter
++ Stammered
+
+> Halus
+***
++ Fluffy
+
+> Tertawa Kecil
+***
++ Giggle
+
+> Terpendam
+***
++ Repressed
++ Pent-Up
+
+> Tidak Komunikatif / Pasif / Pendiam
+***
++ Taciturn
++ Reserved
+
+> Berani / Sopan(sehingga cenderung menarik perhatian cwe)
+***
++ Gallant
++ Chivalrous
+
+> Permintaan yang sungguh sungguh
+***
++ Pleading
++ Appeal
+
+> Benci
+***
++ Enmity
++ Bitterness
++ Animosities
+
+> Mencekik / Membatasi
+***
++ Stifling
++ Suffocating
+
+> Menunjukkan Sifat Tidak Setuju dalam keadaan Serius
+***
++ Stern
+
+> Tidak Pasti Karena Bahaya
+***
++ Precarious
++ Perilous (Pasti Bahaya)
+
+> Menjelaskan secara Rinci 
+***
++ Eludicate
++ Expounding
+
+> Kesal 
+***
++ Tick Off
++ Irritated
+
+> Memukul
+***
++ Banging
+
+> Menarik
+***
++ Tugged
+
+> Menyerah
+***
++ Relenting
+
+> Besar dan Kuat 
+***
++ Burly
+
+> Benjol / Membesar 
+***
++ Swollen
++ Turgid
+
+> Semangat / Yakin / Tertarik dengan sungguh sungguh
+***
++ Fervent
+
+> Sangat Panas
+***
++ Searing
++ Scorching
+
+> Tenang
+***
++ Composed
++ Collected
+
+> Sombong / Merasa Diatas
+***
++ Haughty
++ Condescending
+
+> Resah
+***
++ Agitation
++ Trepidation
+
+> Hampir (Tapi ga terpenuhi)
+***
++ Measly
+
+> Ditebang
+***
++ Felled
+
+> Hujan Lebat
+***
++ Downpours
+
+> Atap dari Jerami atau Tanaman Semak
+***
++ Thatched
+
+> Sumber Sumur(Sumber Airnya)
+***
++ Wellheads
+
+> Gudang Penyimpanan
+***
++ Trove
