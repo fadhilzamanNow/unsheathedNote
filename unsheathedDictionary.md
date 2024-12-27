@@ -753,3 +753,67 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Bergerak dengan cepat
 ***
 + Flitter
+
+> Aktivitas pada Daratan
+***
++ Onshore
+
+> Aktivitas pada Lautan
+***
++ Offshore
+
+> Tanduk
+***
++ Antler
+
+> Bingung
+***
++ Daze
+
+> Semak Berduri
+***
++ Hawthorns
+
+> Aneh
+***
++ Eccentric
+
+> Menyenggol
+***
++ Nudge
+
+> Menggemaskan
+***
++ Adorable
+
+> Kesuksesan Di Masa Depan
+***
++ Auspiciousness
+
+> Meremehkan
+***
++ Belittling
+
+> Menepis
+***
++ Brushed over it
+
+> Gak Cocok
+***
++ Misfit
+
+> Bergerak Ke Samping
+***
++ Wiggle
+
+> Praktik Disiplin garis keras
+***
++ Ascetic
+
+> Menaklukkan
+***
++ Subjugate
+
+> Dengan usaha yang keras
+***
++ Strenous
