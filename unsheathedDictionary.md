@@ -594,3 +594,84 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Gudang Penyimpanan
 ***
 + Trove
+
+> Keributan
+***
++ Fuss
+
+> Kepala yang jatuh terlebih dahulu
+***
++ Faceplanted
+
+> Jalan di sebuah gunung cenderung ke atas
+***
++ Ridge
+
+> Tertidur tanpa Sengaja
+***
++ Doze off
+
+> Dengan Enggan, tapi tetap dilakukan
+***
++ Begrudging
+
+> Berjalan di Air
+***
++ Waded
+
+> Memeriksa sesuatu dengan hati hati
+***
++ Sift
+
+> Batu besar yang halus
+***
++ Boulders
+
+> Bintik
+***
++ Specks
+
+> Ekspresi Wajah yang Jijik
+***
++ Grimaced
+
+> Menghiasi
+***
++ Adorn
++ Embroidered
+
+> Pernak Pernik Kecil
+***
++ Trinkets
+
+> Bau yang sensitif
+***
++ Pungent
+
+> Mengawetkan Makanan
+***
++ Pickling
+
+> Meretas
+***
++ Hacking
+
+> Menetaskan
+***
++ Hatching
+
+> Makan Dikit Dikit
+***
++ Nibble
+
+> Lincah
+***
++ Nimble
+
+> Berjalan dengan Hati Hati
+***
++ Crept
+
+> Bahan untuk tulis menulis
+***
++ Parchment
