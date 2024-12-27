@@ -11,7 +11,7 @@ No| Chapter | Days | Status |
 
 ## Chapter 1 - 100  
 
-
+s
 
 
 ```
@@ -502,6 +502,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 + Enmity
 + Bitterness
 + Animosities
++ Loath
 
 > Mencekik / Membatasi
 ***
@@ -717,3 +718,38 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Begets
 
+> Tas dengan Tali 
+***
++ Satchel
+
+> Mengikat / Alat Ikat Pintu
+***
++ Latch
+
+> Ceroboh
+***
++ Wanton
+
+> Pengkhianatan
+***
++ Treasonous
+
+> Digoyangkan
+***
++ Swayed
+
+> Simpul
+***
++ Knot
+
+> Rajutan
+***
++ Knit
+
+> Kering
+***
++ Parched
+
+> Bergerak dengan cepat
+***
++ Flitter
