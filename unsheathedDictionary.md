@@ -447,6 +447,8 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Vile
 + Repulsive
++ Loathing
++ Abhorrent
 
 > Cemberut
 ***
@@ -535,6 +537,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Menarik
 ***
 + Tugged
++ Jerked
 
 > Menyerah
 ***
@@ -802,9 +805,10 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Misfit
 
-> Bergerak Ke Samping
+> Bergerak 
 ***
-+ Wiggle
++ Wiggle (Mengerakkan ke samping)
++ Wriggle (Mengerakkan masuk keluar)
 
 > Praktik Disiplin garis keras
 ***
@@ -817,3 +821,105 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Dengan usaha yang keras
 ***
 + Strenous
+
+> Pembantu(tapi tingkatannya lebih tinggi karena mengurus properti)
+***
++ Steward
+
+> Teliti
+***
++ Meticulous
+
+> Pengikut
+***
++ Retainers
+
+> Menggelantung ke bawah
+***
++ Drooped
+
+> Merapatkan / Memeluk
+***
++ Snuggled
+
+> Memabukkan
+***
++ Intoxicating
+
+> Mengakui
+***
++ Concede
+
+> Menonjol
+***
++ Protrude
+
+> Mendidih
+***
++ Simmering
+
+> Dimasak dengan Merebus
+***
++ Brasising
+
+> Usil
+***
++ Nosy
+
+> Pucat
+***
++ Ashen
++ Pale
+
+> Cemberut
+***
++ Sulky
+
+> Menyindir
+***
++ Quipped
+
+> Hemat
+***
++ Thrifty
++ Frugal
+
+> Menampakkan kesedihan
+***
++ Melancholic
++ Gloomy
++ Pensive
++ Wistful
+
+> Bermalas malasan
+***
++ Slack off
+
+> Dengan Mahir
+***
++ Adeptly
+
+> Menyeduh
+***
++ Brew
+
+> Kuda Kuda
+***
++ Stances
+
+> Stringent
+***
++ Ketat
+
+> Memutar
+***
++ Twirling (lebih ke daun yang berputar setelah jatuh dari pohon)
+
+> Goyah
+***
++ Wobbed 
++ Waver
+
+> Dengan Tajam
+***
++ Acutely
