@@ -689,3 +689,31 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Blurt
 
+> Tidak Menyenangkan
+***
++ Unsavory
+
+> Skirmish
+***
++ Peperangan
+
+> Jalan Besar
+***
++ Swathes
+
+> Kental
+***
++ Viscous
+
+> Mengecil / Kempes
+***
++ Deflated
+
+> Sulit untuk ditangkap
+***
++ Elusive
+
+> Melahirkan
+***
++ Begets
+
