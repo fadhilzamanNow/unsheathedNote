@@ -329,6 +329,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Berfikir
 ***
 + Mused (Think Deeply)
++ Mulled Over 
 
 > Insinuation
 ***
@@ -675,3 +676,16 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Bahan untuk tulis menulis
 ***
 + Parchment
+
+> Setengah Tenggelam
+***
++ Immersed
+
+> Menggerakan dengan halus
+***
++ Slid
+
+> Mengatakan sesuatu dengan tiba tiba
+***
++ Blurt
+
