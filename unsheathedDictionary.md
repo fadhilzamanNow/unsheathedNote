@@ -339,9 +339,9 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Against
 
-> Jolted
+> Kaget
 ***
-+ Terkaget
++ Jolted
 
 > MenggantI Rugi
 ***
@@ -437,6 +437,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Tidak Sejalan / Tidak Sesuai
 ***
 + Discordant
++ Erratic
 
 > Keriput
 ***
@@ -555,6 +556,8 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Semangat / Yakin / Tertarik dengan sungguh sungguh
 ***
 + Fervent
++ Fervor
++ Frienziedly
 
 > Sangat Panas
 ***
@@ -894,6 +897,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Bermalas malasan
 ***
 + Slack off
++ Perfunctory(gak malas, tapi effortnya sedikit)
 
 > Dengan Mahir
 ***
@@ -923,3 +927,110 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Dengan Tajam
 ***
 + Acutely
+
+> Aneh tapi menarik
+***
++ Eccentric
++ Quirky
+
+> Jelek
+***
++ Shoddy
+
+> Berbahaya
+***
++ Detrimental
++ Prejudicial
+
+> Apprehensive
+***
++ Khawaitr
++ Uneasy
+
+> Meningkatkan
+***
++ Temper(as a verb)
+
+> Menilai
+***
++ Appraise
+
+> Pagar
+***
++ Railings
+
+> Berbelok
+***
++ Veered off
++ Swerve
+
+> Kaku
+***
++ Clumsy
+
+> Benda Pusaka
+***
++ Heirloom
+
+> Dengan Sombong
+***
++ Smugly
+
+> Nginjek
+***
++ Trample
++ Stomp
+
+> Jatuh dengan kecepatan tinggi
+***
++ Plummet
+
+> Batu Asah
+***
++ Whestone
+
+> Menunjukkan Ketidaktertarikkan
+***
++ Indifferent 
+
+> Keramahan
+***
++ Hospitality
+
+> Mengidamkan
+***
++ Coveting
+
+> Kutil
+***
++ Wart
+
+> Lembah
+***
++ Valley
++ Gorge(noun)
+
+> Lari dengan Cepat(dimana semua kaki sampai tidak menyentuh tanah)
+***
++ Galloping
+
+> Menahan (Di bawah kendali)
+***
++ In Check(idiom)
+
+> Bergejolak
+***
++ Upheaval
+
+> Bergetar hebat
+***
++ Convulsing
+
+> Menurun
+***
++ Waned
+
+> Dipaksakan
+***
++ Labored
+
