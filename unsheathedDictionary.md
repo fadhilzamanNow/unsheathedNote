@@ -1090,7 +1090,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Ascertained
 
-> Mendapatkan (dengan cara yang curang)
+> Memeras (dengan cara yang curang)
 ***
 + Extorted
 
@@ -1251,3 +1251,50 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Inflict
 
+> Ingkar Janji
+***
++ Renege
+
+> Kurang Sopan Santun
+***
++ Uncouth
+
+> Yang Mengetahui Rahasia
+***
++ Privy
+
+> Menyerah 
+***
++ Relinquish
+
+> Dikeluarkan
+***
++ Incurred
+
+> Curam
+***
++ Steep
+
+> Pengamat
+***
++ Bystander
+
+> Dibuat buat 
+***
++ Contrived
+
+> Kapak + Tombak (Senjata Gabungan)
+***
++ Halberd
+
+> Melakukan segala cara 
+***
++ Leave no stone unturned (idiom)
+
+> Sangat Menyakitkan 
+***
++ Excruciating
+
+> Compang Camping
+***
++ Ragged
