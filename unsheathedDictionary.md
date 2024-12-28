@@ -1198,3 +1198,56 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Take Matter
 ***
 + Mengambil Tindakan
+
+> Ketabahan
+***
++ Fortitude
+
+> Berkumpul
+***
++ Flock
+
+> Perhatian 
+***
++ Considerate
+
+> Pikun
+***
++ Senile
+
+> Gagasan
+***
++ Notion
+
+> Ranting Kecil 
+***
++ Twig
+
+> Tidak Semestinya
+***
++ Undue
+
+> Jaminan
+***
++ Bail
+
+> Situasi yang Sulit 
+***
++ Predicament
+
+> Kurus Bertulang
+***
++ Scrawny
+
+> Tercampur
+***
++ Mingled
+
+> Kecil
+***
++ Petty
+
+> Menimbulkan
+***
++ Inflict
+
