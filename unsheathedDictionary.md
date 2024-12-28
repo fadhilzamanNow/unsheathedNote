@@ -297,6 +297,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Orang Celaka
 ***
 + Wretch
++ Deplorable (sambil mengukut untuk orang celaka)
 
 > Bahan Lilin
 ***
@@ -893,6 +894,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 + Gloomy
 + Pensive
 + Wistful
++ Forlorn
 
 > Bermalas malasan
 ***
@@ -1034,3 +1036,68 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Labored
 
+> Lihai
+***
++ Wily
+
+> Pengungian
+***
++ Refuge
+
+> Tambahan
+***
++ Afterthought
+
+> Melemparkan
+***
++ Hurl
+
+> Tipuan / Umpan
+***
++ Ruse
+
+> Meronta Ronta
+***
++ Flailed
+
+> Tertawa
+***
++ Chuckle
++ Chortle
+
+> Gembira
+***
++ Glee
+
+> Keraguan
+***
++ Qualms
+
+> Konsekuensi/ Hasil yang tidak diinginkan
+***
++ Repercussions
+
+> Kesalahan
+***
++ Oversights
++ Lapse
+
+> Pengeluaran
+***
++ Expenditure
+
+> Memastikan
+***
++ Ascertained
+
+> Mendapatkan (dengan cara yang curang)
+***
++ Extorted
+
+> Mengambil
+***
++ Pounced
+
+> Bobrok (rusak)
+***
++ Dilapidated
