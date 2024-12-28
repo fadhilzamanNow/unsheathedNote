@@ -1101,3 +1101,100 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Bobrok (rusak)
 ***
 + Dilapidated
+
+> Posisi 
+***
++ Stead
+
+> Bahagia 
+***
++ Elated
++ Ecstatic
+
+> Enak 
+***
++ Delectable
+
+> Tidak Semangat
+***
++ Lackadaisical
+
+> Perdebatan
+***
++ Altercation
+
+> Gelandangan
+***
++ Vagrant
+
+> Membangun
+***
++ Erected
+
+> Kecenderungan
+***
++ Propensity
+
+> Menggoyangkan Jari 
+***
++ Wagged
+
+> Tangan Membentuk Sebuah Gelas (untuk menandakan hormat)
+***
++ Cupped
+
+> Masa Kejayaan
+***
++ Heyday
+
+> Tugas
+***
++ Errand
+
+> Intisari
+***
++ Gist
+
+> Dihancurkan sepenuhnya
+***
++ Pulverized
+
+> Ampuni
+***
++ Pardon
+
+> Tontonan
+***
++ Spectacle
+
+> Kapalan
+***
++ Callouses
+
+> Meresap
+***
++ Permeating
+
+> Memanfaatkan
+***
++ Harness
+
+> Baskom
+***
++ Basins
+
+> Marah karena perasaan tidak adil 
+***
++ Indignant 
+
+> Memohon dengan sungguh sungguh
+***
++ Implored
+
+> Ekspresi Lelah
+***
++ Weary
+
+> Take Matter
+***
++ Mengambil Tindakan
