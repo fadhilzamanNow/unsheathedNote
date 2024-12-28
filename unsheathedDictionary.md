@@ -40,6 +40,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 >Terus Menerus
 ***
 + Perpetually
++ Incessantly
 
 >Sendawa
 ***
@@ -1298,3 +1299,75 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Compang Camping
 ***
 + Ragged
+
+> Menjahit 
+***
++ Needlework
+
+> Melihat Dengan Derajat Yang Sama 
+***
++ Peering
+
+> Dengan Susah Payah
+***
++ Arduously
+
+> Siksaan / Rintangan
+***
++ Arduously
+
+> Memancing / Memprovokasi 
+***
++ Goad
+
+> Membayangkan
+***
++ Envisioned
+
+> Berasal dari 
+***
++ Hailing
+
+> Penuh
+***
++ Fraught
+
+> Berisik dan Tidak Teratur
+***
++ Rowdy
+
+> Memaksakan
+***
++ Imposing
+
+> Menarik Sesuatu yang Berat 
+***
++ Hauling
+
+> Posisi
+***
++ Vantage
+
+> Geraman
+***
++ Snarl
+
+> Mengeras menjadi butiran yang sebelumnya tetesan kecil 
+***
++ Beaded up
+
+> Menepuk 
+***
++ Swatted
+
+> Kecuali 
+***
++ Barring
+
+> Perawakan 
+***
++ Stature
+
+> Menegur 
+***
++ Reprimanded
