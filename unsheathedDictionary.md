@@ -1371,3 +1371,51 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Menegur 
 ***
 + Reprimanded
+
+> Diselempangkan
+***
++ Slung
+
+> Keributan
+***
++ Commotion
+
+> Memberikan Isyarat 
+***
++ Beckoned
+
+> Kata Kata Kutukan 
+***
++ Profanity
+
+> Mengurangi (Secara Bertahap)
+***
++ Chip away
+
+> Mendorong 
+***
++ Propelling
+
+> Menggelantung
+***
++ Dangling
+
+> Pendidikan 
+***
++ Upbringing
+
+> Parit / Got
+***
++ Ditch
+
+> Meletus Keluar 
+***
++ Erupted out
+
+> Penghargaan 
+***
++ Accolades
+
+> Luka Ringan 
+***
++ Grazed
