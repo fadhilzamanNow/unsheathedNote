@@ -163,7 +163,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Glistening
 + Sparkle
-+ Dazzling
++ Dazzling (Mempesona)
 
 > Menjadi Kusam/Hitam
 ***
@@ -384,8 +384,9 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 
 > Berantakan
 ****
-+ Dishoveled
++ Disheveled
 + Scruffy
++ Unkempt
 
 > Kesal
 ***
@@ -398,6 +399,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Menjilat 
 ***
 + Obsequiously
++ Fawning(berlebihan dalam memuji)
 
 > Cerita
 ***
@@ -497,6 +499,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 + Gallant
 + Chivalrous
 
+
 > Permintaan yang sungguh sungguh
 ***
 + Pleading
@@ -560,6 +563,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 + Fervent
 + Fervor
 + Frienziedly
++ Zealously
 
 > Sangat Panas
 ***
@@ -575,6 +579,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Haughty
 + Condescending
++ Snobbish
 
 > Resah
 ***
@@ -896,6 +901,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 + Pensive
 + Wistful
 + Forlorn
++ Grief-Stricken
 
 > Bermalas malasan
 ***
@@ -1119,6 +1125,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Tidak Semangat
 ***
 + Lackadaisical
++ Despondence
 
 > Perdebatan
 ***
@@ -1419,3 +1426,201 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Luka Ringan 
 ***
 + Grazed
+
+> Dengan Cepat (Tidak Peduli)
+***
++ Breakneck
+
+> Campuran (tanah, pasir dan debu) 
+***
++ Loamy
+
+> Mencengkeram
+***
++ Latched
+
+> Terjun 
+***
++ Plunging
+
+> Diperkecil 
+***
++ Tapered
+
+> Bernafas Dengan Cepat 
+***
++ Panting
+
+> Kera Baju Di Tangan 
+***
++ Hem
+
+> Menangis dengan Keras 
+***
++ Bawling
+
+> Merasakan Penghinaan 
+***
++ Scorned
+
+> Cemberut 
+***
++ Sulky
+
+> Serak 
+***
++ Hoarse
++ Raucous
+
+> Bersamaan (dalam konteks mengeluarkan suara)
+***
++ Chorus
+
+> Dengan Sopan 
+***
++ Courteously
++ Graciously
+
+> Kedai 
+***
++ Tavern
+
+> Mundur 
+***
++ Flinched Back 
+* Recoiled
+
+> Bertemperamen Buruk (Marahan)
+***
++ Surly
+
+> Bersemangat
+***
++ Feisty
+
+> Punggungnya Menonjol
+***
++ Hunched-Backed
+
+> Garments 
+***
++ Baju / Celana
+
+> Titik Transisi / Ujung sebelum transisi
+***
++ Cusp
+
+> Memutuskan 
+***
++ Sever
+
+> Dengan Kotor / /Ga Jelas
+***
++ Smudged
+
+> Mengisi / Mengisi Ulang
+***
++ Replenish
+
+> Bagian Rahang / Tenggorokan Hewan
+***
++ Maw
+
+> Mendahului dalam posisi 
+***
++ Overtaking
+
+> Kebobolan 
+***
++ Too Much Grounded
+
+> Shudder 
+***
++ Gemetar Luar Biasa
+
+> Jatuh Secara Tiba Tiba 
+***
++ Tumble
+
+> Diletakkan Bersampingan 
+***
++ Juxtaposed
+
+> Dalam Bahaya / Jelas Jelas
+***
++ Sanguine
+
+> Meletakkan 
+***
++ Wracked
+
+> Menangis Karena Kesakitan 
+***
++ Whimpered
+
+> Membuka Mulut Lebar Lebar 
+***
++ Yawning
+
+> Menusuk dengan jari 
+***
++ Prot 
+
+> Menyerupai Lelucon 
+***
++ Farcical
+
+> Berbentuk Bulat 
+***
++ Plump(Adjective)
+
+> Berbicara Sesuatu yang tidak menarik 
+***
++ Rattle on
++ Babbling 
++ Jabbing
++ Rambling
+
+> Rakus 
+***
++ Avaricious
+
+> Tirai 
+***
++ Drape
+
+> Percaya 
+***
++ Reckon
+
+> Momen Menarik 
+***
++ Enthralling
+
+> Dengan Cara Yang Terampil 
+***
++ Deftly
+
+> Dengan Cara Yang Tidak Bisa Dirasakan 
+***
++ Imperceptibly
+
+> Misterius 
+***
++ Uncanny
+
+> Suara Yang Keras 
+***
++ Thump
+
+> Luka Panjang 
+***
++ Gash
+
+> Mendorong dengan keras 
+***
++ Thrust
+
+> Duduk dengan Berat 
+***
++ Plonked
