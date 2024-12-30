@@ -325,7 +325,8 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 + Mystified
 + Baffled
 + Bewildered
-+ Persprelexed
++ Persplexed
++ Stumped
 
 
 > Berfikir
@@ -377,6 +378,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Suara Nada Tinggi
 ***
 + Squeak
+> Shrill
 
 > Pangsit Cinta
 *** 
@@ -976,6 +978,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Kaku
 ***
 + Clumsy
++ Fumbled (melakukan sesuatu dengan kaku)
 
 > Benda Pusaka
 ***
@@ -1402,6 +1405,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Mendorong 
 ***
 + Propelling
++ Spur
 
 > Menggelantung
 ***
@@ -1617,6 +1621,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Gash
 
+
 > Mendorong dengan keras 
 ***
 + Thrust
@@ -1624,3 +1629,211 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Duduk dengan Berat 
 ***
 + Plonked
+
+> Pandangan Kabur 
+***
++ Fuzzy
+
+> Tidak Ketat 
+***
++ Lenient 
+
+> Telah Ditentukan 
+***
++ Preordained
+
+> Mengabaikan / Mengalihkan Sesuatu 
+***
++ Shrug off
+
+> Tidak Menarik 
+***
++ Bleak
+
+> Kondisi Baik
+***
++ Dandy
+
+> Memperburuk
+***
++ Exacerbated
+
+> Basah Kuyup
+***
++ Drenched
+
+> Tidak Terkotaminasi 
+***
++ Untainted
+
+> Potongan Panjang
+***
++ Grooves
+
+> Batu Asah
+***
++ Whestones
+
+> Setengah Sadar
+***
++ Trance
+
+> Ekspresi Tidak Setuju, Jijik
+***
++ Grimaced
+
+> Dengan Cara Yang Tidak Tahu Malu dan Terang Terangan 
+***
++ Brazenly
+
+> Tepi Luar 
+***
++ Rims
+
+> Lemah 
+***
++ Feeble
+
+> Berpengalaman
+***
++ Well-Versed
+
+> Menyanjung 
+***
++ Flatter
+
+> Memarahi dengan halus 
+***
++ Chided
+
+> Lemah Lembut 
+***
++ Meek
+
+> Merendahkan (Menurunkan Harga Diri Seseorang)
+***
++ Demeaning
+
+> Memancarkan 
+***
++ Exuded
+
+> Asyik (Sepenuhnya menyerap)
+***
++ Engrossed
+
+> Kesopanan 
+***
++ Decorum
+
+> Kejujuran 
+***
++ Uprightness
+
+> Kecenderungan Untuk Marah
+***
++ Irrasible
+
+> Menunjukkan Ketidaksetujuan
+***
++ Deprecating
+
+> Bridle 
+***
++ Melepaskan Diri dari Kekangan
+
+> Berpura Pura 
+***
++ Feigned
+
+> Overcast 
+***
++ Mendung
+
+> Penghinaan 
+***
++ Derogatory
+
+> Mirip 
+***
++ Kindred
+
+> Gerimis 
+***
++ Drizzle
+
+> Berteriak 
+***
++ Bellowed
+
+> Secuil 
+***
++ Shred
+
+> Permohonan
+***
++ Imploration
+
+> Penakluk
+***
++ Vanquisher
+
+> Meniup
+***
++ Puff
+
+> Rapuh 
+***
++ Crisp
+
+> Bagian keras dari Kaki Mamalia
+***
++ Hooves
+
+> Hal Hal Penting dari Sesuatu 
+***
++ Substantial
+
+> Suara Kuku Kuda
+***
++ Clopping
+
+> Berlari dengan Kecepatan Sedang 
+***
++ Trotted
+
+> Jijik yang Luar Biasa 
+***
++ Revolting
+
+> Ikut Campur 
+***
++ Stuck Its Nose (Idioms)
+
+> Dipenuhi dengan kata kata kasar atau kritik 
+***
++ Vitriolic
+
+> Tidak Menyenangkan 
+***
++ Grating
+
+> Liar 
+***
++ Frantics
+
+> Mengerutkan Kening Sambil Marah 
+***
++ Scowled
+
+> Pergi dengan Segera 
+***
++ Scram
+
+> Pohon dengan daun sempit 
+***
++ Willow
+
+> Sesuatu yang Menyulitkan 
+***
++ Hassle
