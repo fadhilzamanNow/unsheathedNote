@@ -953,9 +953,9 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 + Detrimental
 + Prejudicial
 
-> Apprehensive
+> Khwatir
 ***
-+ Khawaitr
++ Apprehensive
 + Uneasy
 
 > Meningkatkan
@@ -1322,6 +1322,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Arduously
 
+
 > Siksaan / Rintangan
 ***
 + Arduously
@@ -1538,9 +1539,9 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Too Much Grounded
 
-> Shudder 
+> Gemetar Luar Biasa 
 ***
-+ Gemetar Luar Biasa
++ Shudder
 
 > Jatuh Secara Tiba Tiba 
 ***
@@ -1837,3 +1838,529 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Sesuatu yang Menyulitkan 
 ***
 + Hassle
+
+> Memutuskan untuk melakukan sesuatu 
+***
++ Hellbent
+
+> Sulit untuk dilewati 
+***
++ Impervious
+
+> Membentak dengan Marah 
+***
++ Berate
+
+> Situasi yang Berbahaya 
+***
++ Plights
+
+> Ditertawai / Menjadi Bahan Lelucon
+***
++ Ridiculed
+
+> Bersaing Dengan Semangat 
+***
++ Vying
+
+> Gak Puas 
+***
++ Disgruntled
+
+> Berbicara mengenai (sesuatu yang tidak menyenangkan, membosankan , dsb)
+***
++ Dwell
+
+> Setuju 
+***
++ Concurred
+
+> Tepi Atap Yang Menggantung
+***
++ Eaves
+
+> Kemegahan dan Keindahan 
+***
++ Grandeur
+
+> Murah Hati dan Pemaaf
+***
++ Magnanimous
+
+> Bergerak dengan lambat dan berat di atas roda 
+***
++ Trundled
+
+> Meninggalkan / Turun 
+***
++ Disembark 
+
+> Cantik dan Kecil Imut
+***
++ Dainty
+
+> Secara Ragu Ragu
+***
++ Tentatively
+
+> Memotong Bagian 
+***
++ Dismembered
+
+> Mengarahkan Seseorang 
+***
++ Funneled
+
+> Bergerak dengan Cepat
+***
++ Budge
+
+> Kemampuan untuk menilai sesuatu 
+***
++ Astutely
+
+> Marah Besar
+***
++ Livid
+
+> Pembimbing
+***
++ Preceptor
+
+> Diskusi Lisan atau Tulisan
+***
++ Discourse
+
+> Mengomel
+***
++ Fuming
+
+> Sesuatu yang kurang baik dari kualitas atau kuantitas 
+***
++ Meager
+
+> Orang yang hidup dalam pengasingan 
+***
++ Recluse
+
+> Remaja
+***
++ Adolescent
++ Juvenile
+
+> Menarik Napas Secara Tiba Tiba
+***
++ Gasp
+
+> Dipenuhi
+***
++ Riddle
+
+> Surut
+***
++ Recede
+
+> Degradasi
+***
++ Relegated
+
+> Meratap
+***
++ Wail
+
+> Kesedihan
+***
++ Anguish
+
+> Senang Hati
+***
++ Relish
++ Bliss
++ Elation
+
+> Menutupi Sesuatu dengan Kain 
+***
++ Draping
+
+> Sangat Perhatian dengan Detail
+***
++ Fastidious
+
+> Perjalanan yang Sulit
+***
++ Trek
+
+> Kualitas Menjadi Penuh Energi
+***
++ Exuberence
+
+> Menjadi sangat Marah 
+***
++ Fumed
+
+> Yang tidak diragukan lagi
+***
++ Indubitable
+
+> Meratapi
+***
++ Lamented
+
+> Makan Dengan Berisik
+***
++ Munching
+
+> Bergerak seperti ombak 
+***
++ Undulating
+
+> Berlanjut setelah koid
+***
++ Posthumous
+
+> Suara yang tajam
+***
++ Clack
+
+> Kelancangan
+***
++ Impudence
+
+> Kejadian yang tiba tiba 
+***
++ Flurries
+
+> Sesuatu yang berurutan
+***
++ Procession
+
+> Tahap Senja yang lebih gelap
+***
++ Dusk
+
+> Mengupas
+***
++ Husk (verb)
+
+> Bagian sesuatu yang tidak penting
+***
++ Husk (noun)
+
+> Memberikan Energi Baru atau Kekuatan
+***
++ Reinvigorating
+
+> Perasaan Senang
+***
++ Exhilaration
+
+> Dibatasi dari kemampuan normalnya 
+***
++ Handicapped
+
+> Tidak Lagi Valid
+***
++ Lapse
+
+> Kosong
+***
++ Hollowing
+
+> Hobi
+***
++ Pastime
+
+> Tidak Bermoral
+***
++ Unscrupulous
+
+> Salah
+***
++ Errant
+
+> Perpisahan
+***
++ Fleeting
+
+> Bersinar
+***
++ Gleam
+
+> Berbicara secara tidak jelas 
+***
++ Mince
+
+> Tempat Gak Baek
+***
++ Brothels
+
+> Memuji
+***
++ Lauds
+
+> Tenang
+***
++ Placid
+
+> Meletus
+***
++ Erupted
+
+> Istirahat dalam periode sebentar
+***
++ Respite
+
+> Dikurangi secara bertahap
+*** 
++ Whittled Down
+
+> Menyelipkan
+***
++ Tucked
+
+> Menggelegar
+***
++ Jarring
+
+> Ditetapkan
+***
++ Stipulated
+
+> Bekerja dengan Keras
+***
++ Toiling away
+
+> Marah
+***
++ Ire
+
+> Kue Kering
+***
++ Pastries
+
+> Pelanggan Tetap
+***
++ Patron
+
+> Dengan Tegukan Besar 
+***
++ Swig
+
+> Untuk menyentuh dengan halus
+***
++ Dabbed
+
+> Gak Sesuai dengan rencana awal
+***
++ Awry
+
+> Botol Besar 
+***
++ Flagon
+
+> Pemasukan
+***
++ Revenue
+
+> Membuat lubang dengan menggali
+***
++ Excavate
+
+> Menyampaikan / Ngirim Informasi
+***
++ Relay
+
+> Memperkuat
+***
++ Bolster
+
+> Ditunjukkan dengan sepenuh hati 
+***
++ Unreserved
+
+> Situasi yang tidak ada kemajuan
+***
++ Stalemate
+
+> Mengemas atau menimpan sesuatu 
+***
++ Stow
+
+> Membuang dengan Sembrono
+***
++ Squander
+
+> Jumlah uang yang harus dibayar secara terus menerus
+***
++ Dividends
+
+> Menyebalkan
+***
++ Irked
+
+> Ditipu oleh sesuatu
+***
++ Bluffing
+
+> Dikeluarkan secara berlebihan
+***
++ Splurge
+
+> Bergerak dengan Cepat
+***
++ Bolted
+
+> Secara tidak informal
+***
++ Colloquially
+
+> Yang Disebut Sebelumnya
+***
++ Aforementioned
+
+> Jumlah terkecil
+***
++ Tinges
+
+> Memulai
+***
++ Commence
+
+> Tidak Disetujui
+***
++ Frowned Upon
+
+> Dimiringkan
+***
++ Slanted
+
+> Bau Sedikit
+***
++ Whiff (noun)
+
+> Miss
+***
++ Whiff(verb)
+
+> Tindakan atau Praktik Keagamaan
+***
++ Rites
+
+> Bagian Kecil
+***
++ Wisp
+
+> Menyebabkan
+***
++ Instigate
+
+> Perintah
+***
++ Behest
+
+> Bergerak Seperti Gelombang
+***
++ Undulating
+
+> Mengembalikan Kepercayaan
+***
++ Reassuring
+
+> Makanan Binatang
+***
++ Forage
+
+> Laden
+***
++ Dipenuhi / Diisi
+
+> Perjuangan Yang Kuat
+***
++ Vigorous Struggle
+
+> Tersebar
+***
++ Dotted
+
+> Menonjol
+***
++ Jutting
+
+> Membengkok dengan Mudah
+***
++ Lithe
+
+> Mewah dan Berlimpah
+***
++ Lavish 
++ Opulent
+
+> Sesuatu kejadian yang dapat dijadikan contoh
+***
++ Precedent
+
+> Tidak Sepenuhnya Sadar
+*** 
++ Unwitting
+
+> Penghargaan atau Hak Istimewa yang diberikan sebagia kehormatan khusus
+***
++ Accolades
+
+> Keputusan atau Pendapat
+***
++ Verdict
+
+> Kesengsaraan
+***
++ Woes
+
+> Memberikan Sanksi kepada Otoritas tertentu 
+***
++ Impeached
+
+> Tempat Tinggal
+***
++ Abodes
+
+> Sepotong Kotoran
+***
++ Turds
+
+> Dirasakan dengan Tulus
+***
++ Heartfelt
+
+> Pemotongan Pohon
+***
++ Felling
+
+> Sekolompok Orang mengelilingi sesuatu
+***
++ Entourage
+
+> Seseorang yang mengajukan teori
+***
++ Proponents
+
+> Lembab
+***
++ Clammy
+
+> Mengenang
+***
++ Commemorate
+
+> Kefasihan dalam Berbicara
+***
++ Eloquence
+
+> Anggun
+***
++ Graceful
++ Poise
+
+> Busuk
+***
++ Putrid
+
