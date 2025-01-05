@@ -395,6 +395,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Infuriated
 + Exasperated
++ Ticked off
 
 > Mengintip
 ***
@@ -532,10 +533,6 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 + Eludicate
 + Expounding
 
-> Kesal 
-***
-+ Tick Off
-+ Irritated
 
 > Memukul
 ***
@@ -744,6 +741,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Ceroboh
 ***
 + Wanton
++ Sloppy
 
 > Pengkhianatan
 ***
@@ -769,6 +767,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Bergerak dengan cepat
 ***
 + Flitter
++ Trotting
 
 > Aktivitas pada Daratan
 ***
@@ -794,7 +793,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Eccentric
 
-> Menyenggol
+> Menyenggol / Dorongan secara halus
 ***
 + Nudge
 
@@ -960,6 +959,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Apprehensive
 + Uneasy
++ Distress
 
 > Meningkatkan
 ***
@@ -1385,6 +1385,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Menegur 
 ***
 + Reprimanded
++ Admonished (tapi dengan tegas)
 
 > Diselempangkan
 ***
@@ -1393,6 +1394,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Keributan
 ***
 + Commotion
++ Tumult
 
 > Memberikan Isyarat 
 ***
@@ -1744,9 +1746,9 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Deprecating
 
-> Bridle 
+> Melepaskan Diri dari Kekangan 
 ***
-+ Melepaskan Diri dari Kekangan
++ Bridle
 
 > Berpura Pura 
 ***
@@ -1756,9 +1758,10 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Mendung
 
-> Penghinaan 
+> Penghinaan / Merendahkan 
 ***
 + Derogatory
++ Disparaging
 
 > Mirip 
 ***
@@ -2204,9 +2207,12 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Dividends
 
-> Menyebalkan
+> Menyebalkan / Mengesalkan
 ***
 + Irked
++ Irritated
++ Bugged
++ Tick Off
 
 > Ditipu oleh sesuatu
 ***
@@ -2476,6 +2482,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Mencegah
 ***
 + Stave off
++ Deter
 
 > Siasat Licik
 ***
@@ -2606,7 +2613,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Inception
 
-> Delay
+> Kemunduran
 ***
 + Setback
 
@@ -2847,6 +2854,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Sangat Menyedihkan / Mengerikan
 ***
 + Harrowing
++ Dismal
 
 > Pujian yang sok
 ***
@@ -2948,9 +2956,10 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Pelting
 
-> Melewati batas
+> Merampas
 ***
 + Encroached
++ Usurping
 
 > Menafsirkan secara salah
 ***
@@ -3125,6 +3134,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Contempt
 + Derision (dengan cemoohan)
++ Derided
 
 > Permintaan secara sungguh sungguh
 ***
@@ -3326,3 +3336,605 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Tempat Akomodasi 
 ***
 + Berth
+
+> Dipenuhi dengan intens, kemarahan yang tidak diuangkapkan
+***
++ Seethed
+
+> Godaan
+***
++ Enticements
+
+> Jenis Berbeda
+***
++ Disparate
+
+> Lubang
+***
++ Burrows
+
+> Tidak terus terang
+***
++ Rounabout
+
+> Mendominasi dengan cara yang tidak menyenangkan
+***
++ Overbearing
+
+> Keputusan / Deal
+***
++ Concession
+
+> Taruhan
+***
++ Wager
+
+> Tidak Masuk Akal
+***
++ Preposterous
+
+> Berpikir dengan serius
+***
++ Ruminating
+
+> Pecah
+***
++ Splintered
+
+> Merusak tampilan sesuatu
+***
++ Disfigured
+
+> Mengeluarkan suara tidak setuju secara halus
+***
++ Clucked
+
+> Bentrokan / Perkelahian Kecil
+***
++ Skirmishes
+
+> Cara Yang Kotor
+***
++ Sordid
+
+> Tanaman Kayu yang pendek dengan beberapa batang
+***
++ Shrub
+
+> Kantong Empedu
+***
++ Gallbladder
+
+> Ujung dari sesuatu area tertentu
+***
++ Fringes
+
+> Membawa atau memindahkan sesuatu secara cepat
+***
++ Whisked away
+
+> Dahulu Kala
+***
++ Immemorial
+
+> Menggugah Selera
+***
++ Appetizing
++ Scrumptious
+
+> Mengelus secara halus
+***
++ Caress
+
+> Sutra
+***
++ Silk
+
+> Kain
+***
++ Fabric
+
+> Kain dengan Desain Bagus, terbuat dari emas atau silver
+***
++ Brocade
+
+> Inti Kayu
+***
++ Ebony
+
+> Terkait
+***
++ Pertained
+
+> Sistem Timbal Balik atas Perlindungan
+***
++ Feudal
+
+> Mendaftarkan
+***
++ Enlisted
+
+> Memamerkan
+***
++ Flaunt
+
+> Mengulurkan Leher
+***
++ Cranes
+
+> Bertambah terus
+***
++ Accrues
+
+> Meraung dengan kemarahan
+***
++ Bellow
+
+> Berisik / Penuh Aktivitas
+***
++ Bustling
+
+> Tusuk ( buat menahan makanan , kayak ayam, sate dsb)
+***
++ Skewers
+
+> Tumbuhan Mata Lele
+***
++ Duckweed
+
+> Banyak garis di kertas / Lecek
+***
++ Crinkled
+
+> Kaget Luar Biasa
+***
++ Astonished
++ Flabbergasted
+
+> Hakim
+***
++ Magistrate
+
+> Dokumen berisi list perjalanan yang akan dilewati / rencana perjalanan
+***
++ Itinerary
+
+> Pasukan
+***
++ Garrison
+
+> Tidak Ketat
+***
++ Lax
+
+> Menara Lampu
+***
++ Beacon
+
+> Berisik, Gaduh
+***
++ Boisterous
++ Rowdy
+
+> Berteriak dengan kuat
+***
++ Hollering
+
+> Tawar menawar atau perselihan secara terus menerus
+***
++ Haggling
+
+> Berat
+***
++ Hefty
+
+> Dermaga
+***
++ Dock
+
+> Jam Malam (berdiam di ruangan)
+***
++ Curfew
+
+> Sebuah Area Air yang sempit tapi menjulur ke area daratan
+***
++ Inlet
+
+> Pekerja wanita 
+***
++ Hostesses
+
+> Layak Mendapat Pujian
+***
++ Meritorious
+
+> Sangat Besar
+***
++ Whopping
+
+> Tidak Bersemangat / Tidak Penuh Energi atau Antusias
+***
++ Listless
+
+> Tingkat laku wanita (padahal cowo)
+***
++ Effeminate
+
+> Tidak Dapat Diterima / Layak dikecam
+***
++ Deplorable
+
+> Suara gedebug (barang berat jatuh)
+***
++ Thud
+
+> Sedih
+***
++ Mopey
+
+> Batu terletak di air tinggi sampai keatas permukaan
+***
++ Reefs
+
+> Daerah peraian yang Dangkal
+***
++ Shoals
+
+> Melancar di atas permukaan
+***
++ Skimming
+
+> Harga tinggi tidak masuk Akal
+***
++ Exorbitant
+
+> Membengkokan dengan mudah dan indah
+***
++ Supple
+
+> Meminta / Membujuk seseorang untuk melakukan bisnis (tidak baik)
+***
++ Soliciting
+
+> Menjalankan
+***
++ Faring
+
+> Menawarkan
+***
++ Peddling
+
+> Terikat
+***
+* Hitch
+
+> Menulis secara cepat dan singkat
+*** 
++ Jotted
+
+> Diberikan / Dikabulkan
+***
++ Conferred
+
+> Mengeluarkan bau tidak sedap
+***
++ Reeked
+
+> Menyampaikan dengan perasaan sedih dan serius
+***
++ Somber
+
+> Mengancam Bahaya
+***
++ Baleful
+
+> Perasaan Hangat / Antusiasme
+***
++ Ardor
+
+> Kotak Untuk Membakar Dupa  
+***
++ Censer
+
+> Dengan cara Hemat 
+***
++ Frugal
++ Sparingly
+
+> Observasi Militer untuk menemukan target / Pengematan Militer
+***
++ Reconnaisance
+
+> Salah 
+*** 
++ Erroneous
+
+> Bergerak dengan suara siulan atau mendesis 
+***
++ Swished
+
+> Dibatalkan/Dipadamkan 
+***
++ Quashed
+
+> Rapih
+***
++ Immaculate
+
+> Menghancurkan 
+***
++ Obliterate
+
+> Pagar 
+***
++ Railing
+
+> Mengantuk 
+***
++ Drowsy
+
+> Menginformasikan 
+***
++ Dob
+
+> Tidak Dapat Dijalankan 
+***
++ Outworn
+
+> Seseorang yang berfikir keras dan lama 
+***
++ Contemplatives
+
+> Tercampur 
+***
++ Mingling
+
+> Bergerak dengan cepat 
+***
++ Whizzing 
+
+> Menghidari / Mengabaikan 
+***
++ Shirk
+
+> Gugup atau tidak rileks
+***
++ Jittery
+
+> Mendayung 
+***
++ Paddled
+
+> Menyamarkan 
+***
++ Obscuring
+
+> Memanjakan 
+***
++ Coddle
+
+> Bergerak secara cepat atau ragu ragu 
+***
++ Scuttled
+
+> Keinginan yang tidak dapat ditahan
+***
++ Compulsive
+
+> Secara bertahap menyebar 
+***
++ Suffusing
+
+> Gumpalan Asap
+***
++ Plumes
+
+> Membuat Tanda 
+***
++ Blotting
+
+> Petasan 
+***
++ Firecracker 
+
+> Mengumpulkan dan Menyembunyikan 
+***
++ Hoard
+
+> Tergeletak 
+***
++ Sprawled
+
+> Keterasingan / Perpisahan 
+***
++ Estrangement
+
+> Melanggar 
+***
++ Trangresses
+
+> Bangkai Hewan
+***
++ Carcass
+
+> Menduga 
+***
++ Surmised
+
+> Enggan
+***
++ Averse
+
+> Tidak Tepat / Tidak Menjanjikan 
+***
++ Inauspicious
+
+> Meniru 
+***
++ Emulated
+
+> Raungan 
+***
++ Bellow
+
+> Bergoyang cenderung akan jatuh
+***
++ Teetering
+
+> Kasar 
+***
++ Brusque
+
+> Sikap tidak hormat 
+***
++ Gall
+
+> Daun Bawang 
+***
++ Chives
+
+> Bergerak tidak stabil 
+***
++ Staggered
+
+> Pemahanan yang tajam 
+***
++ Percipient
+
+> Perut 
+***
++ Tummy
+
+> Meletakkan Ke bawah 
+***
++ Plonked Down
+
+> Bingung
+***
++ Muddle
+
+> Teman sekaligus Musuh
+***
++ Frenemies
+
+> Meminta 
+***
++ Canvassing
+
+> Kagum
+***
++ Marvelling
+
+> Menangis dalam nada tinggi 
+***
++ Shrieked
+
+> Menyiapkan 
+***
++ Curry
+
+> Paham tanpa diberitahukan 
+***
++ Tacit
+
+> Penguasa yang absolut 
+***
++ Autocratic
+
+> Sebuah dorongan baru / gaya yang membuat sesuatu terjadi lebih cepat 
+***
++ Impetus
+
+> Mencabut / Membatalkan 
+***
++ Revoke 
++ Rescind
+
+> Tepi jalan atau Trotoar 
+***
++ Curb
+
+> Outlived 
+***
++ Live longer than
+
+> Berbicara atau Bertindak dengan mengelak 
+***
++ Prevaricate
+
+> Pengangkatan Status 
+***
++ Apotheosis 
+
+> Menutupi (dalam mengelaborasikan)
+***
++ Glossed Over
+
+> Popularitas 
+***
++ Coattails
+
+> Dilapisi emas secara tipis 
+***
++ Gilded
+
+> Kontak Peminjaman Sewa 
+***
++ Lease
+
+> Kulit yang menutupi atas kepala 
+***
++ Scalp
+
+> Titik Puncak tertinggi 
+***
++ Zenith
+
+> Berkumpul ramai ramai 
+***
++ Huddle
+
+> Resah dan Bingung 
+***
++ Flustered
+
+> Suara Keras dan Kasar 
+***
++ Bray
+
+> Pencapaian yang berani 
+***
++ Exploits
+
+> Berdamai 
+***
++ Cotton up
+
+> Jelas dan Bening 
+***
++ Limpid
+
+> Dengan cara yang sambil pusing 
+***
++ Giddily
+
+> Kotoran / Mengotori 
+***
++ Muck
+
+> Kabur 
+***
++ Shied away
+
+> Rentetan 
+***
++ Barraged
+
+> Menimpa  
+***
++ Plagued
++ Afflict
+
+> Terjebak 
+***
++ Bogged Down
