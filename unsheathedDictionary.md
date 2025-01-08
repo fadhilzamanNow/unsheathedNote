@@ -395,6 +395,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 + Ticked off
 + Peeved
 + Aggravated
++ Piqued
 
 > Mengintip
 ***
@@ -461,6 +462,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 + Repulsive
 + Loathing
 + Abhorrent
++ Curdling
 
 >  Tidak Penting 
 ***
@@ -723,7 +725,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Mengecil / Kempes
 ***
 + Deflated
-
+`
 > Sulit untuk ditangkap
 ***
 + Elusive
@@ -938,6 +940,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Wobbed 
 + Waver
++ Wobbled
 
 > Dengan Tajam
 ***
@@ -1344,7 +1347,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Hailing
 
-> Penuh
+> Dipenuhi
 ***
 + Fraught
 
@@ -1386,8 +1389,10 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 
 > Menegur 
 ***
++ Rebuke
 + Reprimanded
 + Admonished (tapi dengan tegas)
++ Chastising (dengan lebih keras)
 
 > Diselempangkan
 ***
@@ -1731,6 +1736,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Engrossed
 + Riveting
++ Dwell
 
 > Kesopanan 
 ***
@@ -2735,7 +2741,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Whiskers
 
-> Lesu
+> Lesu (enggan dalam mengeluarkan tenaga)
 ***
 + Languid
 + Sapped
@@ -2768,7 +2774,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Lucrative
 
-> Penimbun Kekayaan
+> Penimbun Kekayaan / Kikir
 ***
 + Miser
 
@@ -2839,6 +2845,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Memberikan Isyarat / Menyarankan
 ***
 + Alluding
++ Beckoned
 
 > Kurang Ajar
 ***
@@ -3494,6 +3501,10 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 + Astonished
 + Flabbergasted
 
+> Heran
+***
++ Astonishment
+
 
 > Mencengangkan 
 ***
@@ -3716,6 +3727,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Menyamarkan 
 ***
 + Obscuring
++ Abstruse
 
 > Memanjakan 
 ***
@@ -4427,3 +4439,267 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Mendapatkan (dengan penuh perhatian dan usaha)
 ***
 + Procure
+
+ > Dijahit
+ ***
+ + Sewn
+
+ > Perkamen (kulit binatang yang digunakan untuk tempat menulis)
+ ***
+ + Parchment
+
+ > Terjadi berkali kali 
+ ***
+ + Umpteenth
+
+ > Pembuluh darah menonjol 
+ ***
+ + Aneursym
+
+ > Lemas
+ ***
+ + Limp
+
+ > Membakar tanpa api / Kemarahan yang ditahan
+ ***
+ + Smoldering
+
+> Menculik
+ ***
++ Abduct
+
+> Dengan Tabah
+***
++ Stoically
+
+> Peninggalan
+***
++ Bequeathment
+
+> Berkilauan dan Bersinar secara terang
+***
++ Scintillating
+
+> Tidak tulus
+***
++ Disingeneous
+
+> Keseimbangan
+***
++ Poise
+
+> Tidak kuat dan rentan untuk rusak
+***
++ Flimsy
+
+> Bersujud
+***
++ Prostrated
+
+> Kelompok Pejabat
+***
++ Officialdom
+
+> Tanggul (tembok menahan air)
+***
++ Levee
+
+> Koreng
+***
++ Scab
+
+> Kebencian
+***
++ Aggrieved
+
+> Keluhan
+***
++ Grievances
+
+> Benar Benar Lebar
+***
++ Humongous
+
+> Jambang (rambut yang tumbuh disamping pala)
+***
++ Sideburns
+
+> Suara yang keras atau tumpul
+***
++ Thumping
+
+> Perubahan Perubahaan
+***
++ Vicissitudes
+
+> Menyapa
+***
++ Gracious
+
+> Surut
+***
++ Recede
+
+> Berputar
+***
++ Whirr
+
+> Pujian
+***
++ Commendation
+
+> Melenceng / Belok
+***
++ Deflected
+
+> Wajan
+***
++ Griddle
+
+> Melayang
+***
++ Adrift
+
+> Menyatakan
+***
++ Posited
+
+> Sangat Terang
+***
++ Blinding
+
+> Tidak ada kecacatan / Sempurna
+***
++ Unblemished
+
+> Menyembur
+***
++ Gush
+
+> Terlepas dari
+***
++ Irrespective
+
+> Mementingkan dirinya / Merasa Penting
+***
++ Pompous
+
+> Benar
+***
++ Proprietry
+
+> Membutuhkan usaha besar
+***
++ Strenuous
+
+> Dari Luar
+***
++ Outwardly
+
+> Dari Dalam
+***
++ Inwardly
+
+> Bertele tele
+***
++ Pedantic
+
+> Dengan Terampil
+***
++ Dexterously
+
+> Dibawa
+***
++ Borne
+
+> Kecil
+***
++ Grit
+
+> Berduri
+***
++ Barbed
+
+> Dimanjakan
+***
++ Pampered
+
+> Menyeluruh
+***
++ Overarching
+
+> Hukuman (diberikan atas pembalasan)
+***
++ Retribution
+
+> Binatang yang lebih kecil dari biasanya
+***
++ Runt
+
+> Sifat menunjukkan sedikit perhatian
+***
++ Abrasive
+
+> Sangat Kurus
+***
++ Emaciated
+
+> Ketakutan
+***
++ Spooked
+
+> Sepenuhnya dihancurkan
+***
++ Razed
+
+> Penting
+***
++ Indispensable
+
+> Deritan
+***
++ Creaks
+
+> Terpaku (tidak bergerak karena heran, bertanya tanya dan kagum)
+***
++ Transfixed
+
+> Berwarna Oranye Kemerahan Muda 
+*** 
++ Peach
+
+> Setelah dipikir pikir (mengingat kejadian yang lalu)
+***
++ Hindsight
+
+> Menghabiskan waktu dengan santai 
+***
++ Whiled away
+
+> Bersembunyi (menunggu sesuatu mengantipasi hal yang terjadi)
+***
++ Lurking
+
+> Jalan Buntu / Tidak ada perkembangan
+***
++ Impasse
+
+> Dihapuskan
+***
++ Abolished
+
+> Sekelompok
+***
++ Cohort
+
+> Ditinggalkan / Kosong
+***
++ Deserted
+
+> Melakukan sesuatu dengan penuh tanggung jawab, rajin dan penuh perhatian
+***
++ Conscientious
+
+> Menggantungkan
+***
++ Strung
