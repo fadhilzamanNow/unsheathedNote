@@ -588,6 +588,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 + Agitation
 + Trepidation
 + Distraught (tapi sambil sedih juga)
++ Fret
 
 > Hampir (Tapi ga terpenuhi)
 ***
@@ -1090,6 +1091,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Keraguan
 ***
 + Qualms
++ Dismay
 
 > Konsekuensi/ Hasil yang tidak diinginkan
 ***
@@ -2745,6 +2747,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Languid
 + Sapped
++ Lathergic
 
 > Masih Bersemangat
 ***
@@ -2864,6 +2867,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Harrowing
 + Dismal
+
 
 > Pujian yang sok
 ***
@@ -3376,6 +3380,10 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Taruhan
 ***
 + Wager
+
+> Melancarkan
+***
++ Waged
 
 > Tidak Masuk Akal
 ***
@@ -4479,6 +4487,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Berkilauan dan Bersinar secara terang
 ***
 + Scintillating
++ Shimmering
 
 > Tidak tulus
 ***
@@ -4543,6 +4552,8 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Berputar
 ***
 + Whirr
++ Swiveling
++ Spun
 
 > Pujian
 ***
@@ -4703,3 +4714,176 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Menggantungkan
 ***
 + Strung
+
+> Menjaga / Merawat
+***
++ Tend
+
+> Layak mendapat kecaman 
+***
++ Reprehensible
++ Censure
+
+> Tidak Bernama
+***
++ In-named
+
+> Bergerak dengan paksa 
+***
++ Plow
+
+> Sunyi
+***
++ Hushed
+
+> Tidak dapat diperbaiki
+***
++ Incorrigible
+
+> Marah
+***
++ Incense
+
+> Gagal dalam
+***
++ Flunk 
+
+> Tidak Sadar
+***
++ Stupor
+
+> Menyanggah
+***
++ Refute
+
+> Mengesankan
+***
++ Imposing
+
+> Pujian 
+***
++ Credit
+
+> Perhatian
+***
++ Regard
+
+> Kehilangan Kesegaran
+***
++ Wilted
+
+> Bijaksana
+***
++ Prudent
+
+> Pedesaan
+***
++ Rustic
+
+> Tertanam
+***
++ Engrained
+
+> Penaklukan dengan paksa
+***
++ Conquest
+
+> Menerapkan 
+***
++ Enact
+
+> Memungut
+***
++ Levy
+
+> Anglo (pemanas)
+***
++ Brazier
+
+> Pekerja Kasar
+***
++ Menial Task
+
+> Menodai / Merusak
+***
++ Defile
+
+> Kedengkian
+***
++ Malice
+
+> Memperluas penerapan di situasi yang tidak diketahui
+***
++ Extrapolate
+
+> Berkembang pesat
+***
++ Burgeoning
+
+> Terang Terangan
+***
++ Overt
+
+> Berputar
+***
++ Spun
+
+> Merebut
+***
++ Wrest
+
+> Izin
+***
++ Clearance
+
+> Bantal
+***
++ Cushion
+
+> Penonton
+***
++ Onlooker
+
+> Terlambat 
+***
++ Bloomer
+
+> Kejam
+***
++ Brutish
+
+> Secara Surut
+***
++ Retroactively
+
+> Berganti Kulit
+***
++ Molts
+
+> Mengotak Ngatik
+***
++ Fiddling
+
+> Dipahat
+***
++ Chiseled
+
+> Selaras
+***
++ Attuned
+
+> Yang Ditekankan
+***
++ Accentuated
+
+> Susah Payah
+***
++ Trudge
+
+> Balada
+***
++ Ballads
+
+> Sedang Berlangsung
+***
++ Afoot
