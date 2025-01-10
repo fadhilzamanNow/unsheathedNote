@@ -359,6 +359,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Nakal
 ***
 + Sly
++ Recalcitrant
 
 > Mengganggu
 ***
@@ -386,7 +387,10 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ****
 + Disheveled
 + Scruffy
-+ Unkempt
+
+> Tidak Terawat 
+***
++ Unkempt 
 
 > Kesal
 ***
@@ -1017,6 +1021,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Keramahan
 ***
 + Hospitality
++ Affable
 
 > Mengidamkan
 ***
@@ -1121,6 +1126,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Bobrok (rusak)
 ***
 + Dilapidated
++ Rundown (adjective)
 
 > Posisi 
 ***
@@ -1772,6 +1778,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Derogatory
 + Disparaging
++ Denigrating
 
 > Mirip 
 ***
@@ -2514,7 +2521,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + To Tip Out
 
-> Dirancang Secara Pintar
+> Dirancang Secara Pintar / Inventif
 ***
 + Ingenious
 
@@ -3344,6 +3351,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Kebijaksanaan
 ***
 + Discretion
++ Sagacious
 
 > Tempat Akomodasi 
 ***
@@ -4103,6 +4111,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Celah 
 ***
 + Fissures
++ Crevice
 
 > Kurungan 
 ***
@@ -4755,6 +4764,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Menyanggah
 ***
 + Refute
++ Rebute
 
 > Mengesankan
 ***
@@ -4887,3 +4897,202 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Sedang Berlangsung
 ***
 + Afoot
+
+> Sisa Sisa Bayangan
+***
++ Afterimage
+
+> Samar  / Mata Sayu
+***
++ Bleary
+
+> Memulai
+***
++ Set off
+
+> Tongkat
+***
++ Baton
+
+> Tongkat yang lebih pendek
+***
++ Truncheon
+
+> Merindukan
+***
++ Yearn
+
+> Hiburan
+***
++ Amusement
+
+> Mengolah
+***
++ Cultivate
+
+> Memunculkan
+***
++ Popped
+
+> Sedih
+***
++ Dejected
++ Glum
+
+> Memalukan
+***
++ Disgraceful
+
+> Memenggal
+***
++ Betrothing
+
+> Hand in Hand 
+***
++ Beriringan
+
+> Penuh 
+***
++ Sheer
+
+> Galian
+***
++ Excavation
+
+> Toko menjual barang yang tidak ditebus
+***
++ Pawnshop
+
+> Barang Antik 
+***
++ Curio
+
+> Kesesuaian
+***
++ Conformance
+
+> Dimana mana 
+***
++ Ubiquitous
++ Omnipresent
+
+> Orang yang berada di hierarki terendah 
+***
++ Bottom Rung Members
+
+> Bagian Kecil / Sisa Sisa
+***
++ Scraps
+
+> Cincang 
+***
++ Minced
+
+> Radang Dingin 
+***
++ Frostbite
+
+> Melelahkan
+***
++ Gruel (adjective)
+
+> Taktik 
+***
++ Ploys
+
+> Bergerak dengan cepat naik dan turun 
+***
++ Bob up and down
+
+> Pemahaman / Ajaran 
+***
++ Orthodoxies
+
+> Prinsip 
+***
++ Tenets
+
+> Pengakuan 
+***
++ Admission
+
+> Konyol 
+***
++ Goofy
+
+> Meremas 
+***
++ Kneaded
+
+> Sejenisnyaa 
+***
++ Ilk
+
+> Mengangkat 
+***
++ Shrug
+
+> Penusuk 
+***
++ Awl
+
+> Bacot 
+***
++ Prattle
+
+> Murung 
+***
++ Downcast
+
+> Bersuka cita 
+***
++ Rejoice
+
+> Kotor 
+***
++ Sordid
+
+> Unggas 
+***
++ Fowl
+
+> Mengkilir
+***
++ Spraining
+
+> Mengingau 
+***
++ Derilous
+
+> Kejam 
+***
++ Ferocious
+
+> Berjalan dengan susah / Pincang 
+***
++ Hobble out
+
+> Goyah 
+***
++ Falter
+
+> Cedera 
+***
++ Wrench
+
+> Meragukan 
+***
++ Iffy
+
+> Mengeluarkan 
+***
++ Fish out
+
+> Beban 
+***
++ Brunt
+
+> Dipengecuti 
+***
++ Cowed
+
