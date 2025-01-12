@@ -332,9 +332,9 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 + Mused (Think Deeply)
 + Mulled Over 
 
-> Insinuation
+> Sindiran
 ***
-+ Petunjuk Kecil (clue)
++ Insinuation
 
 > Menentang
 ***
@@ -444,6 +444,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Mereda
 ***
 + Subsided
++ Petered
 
 > Kehijauan
 ***
@@ -621,6 +622,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Keributan
 ***
 + Fuss
++ Fray
 
 > Kepala yang jatuh terlebih dahulu
 ***
@@ -897,6 +899,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Sulky
 + Sullen
++ Pouty
 
 > Menyindir
 ***
@@ -1981,6 +1984,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Dipenuhi
 ***
 + Riddle
++ Rife
 
 > Surut
 ***
@@ -2032,7 +2036,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Lamented
 
-> Makan Dengan Berisik
+> Makan Dengan Berisik / Mengunyah
 ***
 + Munching
 
@@ -2080,7 +2084,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Reinvigorating
 
-> Perasaan Senang
+> Perasaan Senang / Menggembirakan
 ***
 + Exhilaration
 
@@ -2570,6 +2574,10 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Dumbstruck
 
+> Tercengang
+***
++ Dumbfounded
+
 > Telah Sadar
 ***
 + Dawn on him
@@ -2917,7 +2925,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Pummel
 
-> Secara Tipis / Samar Samar
+> Secara Tipis / Samar Samar / Halus
 ***
 + Subtly
 
@@ -3352,6 +3360,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Discretion
 + Sagacious
++ Tactful
 
 > Tempat Akomodasi 
 ***
@@ -4943,9 +4952,9 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Disgraceful
 
-> Memenggal
+> Pertunangan 
 ***
-+ Betrothing
++ Betrothal
 
 > Hand in Hand 
 ***
@@ -5094,5 +5103,309 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 
 > Dipengecuti 
 ***
-+ Cowed
++ Cowed 
 
+> Kebetulan 
+***
++ Fluke
+
+> Dicari 
+***
++ Sought after
+
+> Suka mencari masalah / kritik pada hal hal kecil 
+***
++ Nitpicky
+
+> Angsa 
+***
++ Geese
+
+> Dengan Gembira 
+***
++ Merrily
+
+> Mengeluarkan 
+***
++ Spew
+
+> Bara Api 
+***
++ Embers
+
+> Mengenggak 
+***
++ Glugged
+
+> Yang Sudah Pasti 
+***
++ Foregone
+
+> Laki Laki Pecundang / Lemah 
+***
++ Sissy
+
+> Tertawa dengan ditahan tahan 
+***
++ Snickered
+
+> Ceria dan Optimis 
+***
++ Buoyant
+
+> Memadamkan 
+***
++ Quench
+
+> Narapidana 
+***
++ Convicts
+
+> Cukup
+***
++ Ample
+
+> Tidak terkekang 
+***
++ Unfettered
+
+> Terlibat 
+***
++ Embroiled
+
+> Periang 
+***
++ Jovial
+
+> Mabuk 
+***
++ Tipsy
++ Inebriated
+
+> Poros 
+***
++ Shaft
+
+> Mendarah Daging 
+***
++ Ingrained
+
+> Bau Busuk 
+***
++ Stench
+
+> Meresap 
+***
++ Pervasive
+
+> Rileks dan suka bercanda 
+***
++ Mellow
+
+> Mendidih 
+***
++ Scalding
+
+> Mengernyit 
+***
++ Scrunched
+
+> Bersinar 
+***
++ Shone
+
+> Penangguhan Hukuman 
+***
++ Repreive
+
+> Memperindah 
+***
++ Embellish
+
+> Bertatahkan 
+***
++ Inlaid
+
+> Tunduk 
+***
++ Subservient
+
+> Menyesal 
+***
++ Ruing
+
+> Menodai 
+***
++ Desecrating
+
+> Kekayaan / Kemakmurkan / Kemewahan
+***
++ Opulence
+
+> Gelisah (membuat pergerakan kecil di kaki atau tangan, karena gelisah)
+***
++ Fidgeting
+
+> Mengerutkan Bibir 
+***
++ Puckered Up
+
+> Dibocorkan 
+***
++ Divulging
+
+> Berlebihan 
+***
++ Superflous
+
+> Ngelantur 
+***
++ Digress
+
+> Jeda 
+***
++ Lull
+
+> Disangga 
+***
++ Propped up
+
+> Melongo 
+***
++ Gawk
+
+> Merendahkan 
+***
++ Freeloading
+
+> Gadis Kecil 
+***
++ Lass
+
+> Menyurutkan 
+***
++ Dampened
+
+> Bergerigi 
+***
++ Jagged
+
+> Pertapa 
+***
++ Hermit
+
+> Perkebunan 
+***
++ Estate
+
+> Padam 
+***
++ Snuff out
+
+> Bertepatan 
+***
++ Coincided
+
+> Tirus 
+***
++ Gaunt
+
+> Mengutak Atik 
+***
++ Fiddle
+
+> Aneh 
+***
++ Wacky
+
+> Tersentak 
+***
++ Bristled
+
+> Kamar Kerja 
+***
++ Boudoirs
+
+> Tidak terduga 
+***
++ Unforeseen
+
+> Cegukan 
+***
++ Hiccup
+
+> Teluk 
+***
++ Bay
+
+> Gemilang 
+***
++ Resplendent
+
+> Bergetar 
+***
++ Jangling
+
+> Zat 
+***
++ Pellet
+
+> Penyok 
+***
++ Dented
+
+> Gagang 
+***
++ Pommel
+
+> Tidak Kompeten 
+***
++ Inept
+
+> Kebobrokan 
+***
++ Depravity
+
+> Kekejian 
+***
++ Abomination
+
+> Tumpul 
+***
++ Blunt
+
+> Menjerat 
+***
++ Ensnaring
+
+> Menghisap / Tinggal / Mencomot
+***
++ Leeching
+
+> Genjatan Senjata 
+***
++ Truce
+
+> Diurapi 
+***
++ Annointed
+
+> Norak
+***
++ Tacky
+
+> Ancaman 
+***
++ Menace
+
+> Dengan teguh
+***
++ Staunchly
+
+> Mengorbankan 
+***
++ Spite 
+
+> Pakaian 
+***
++ Garb
