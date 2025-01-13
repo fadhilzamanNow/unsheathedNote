@@ -198,6 +198,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Tidak Mencolok
 ***
 + Inconspicious
++ Nondescript
 
 > Pelahap (makan banyak)
 ***
@@ -587,6 +588,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 + Haughty
 + Condescending
 + Snobbish
++ Braggadocious
 
 > Resah
 ***
@@ -2059,7 +2061,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 
 > Kejadian yang tiba tiba 
 ***
-+ Flurries
++ Flurries (kesibukan)
 
 > Sesuatu yang berurutan
 ***
@@ -2419,6 +2421,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Mengumpulkan
 ***
 + Garner
++ Amassed
 
 > Memodifikasi
 ***
@@ -3809,7 +3812,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 
 > Enggan
 ***
-+ Averse
++ Averse (kasar)
 
 > Tidak Tepat / Tidak Menjanjikan 
 ***
@@ -3898,7 +3901,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 
 > Tepi jalan atau Trotoar 
 ***
-+ Curb
++ Curb( bisa mengekang juga sebagai adjective)
 
 > Outlived 
 ***
@@ -4246,6 +4249,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Rasa Kecewa
 ***
 + Disillusionment
++ Disillusion
 
 > Menyingkirkan 
 ***
@@ -4393,6 +4397,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Dipakaikan (pakaian)
 ***
 + Clad
++ Encased
 
 > Berlokasi dan diangkat tinggi
 ***
@@ -4543,6 +4548,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Keluhan
 ***
 + Grievances
++ Gripes
 
 > Benar Benar Lebar
 ***
@@ -4577,6 +4583,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Pujian
 ***
 + Commendation
++ Acclaim
 
 > Melenceng / Belok
 ***
@@ -4601,6 +4608,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Tidak ada kecacatan / Sempurna
 ***
 + Unblemished
++ Impeccable
 
 > Menyembur
 ***
@@ -5507,3 +5515,150 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Cursory 
 
+> Berdenyut 
+***
++ Throbbing
+
+> Ketidakpedulian 
+***
++ Detachment
+
+> Pecinta 
+***
++ Avid
+
+> Peresmian
+***
++ Inauguration
+
+> Jelek 
+***
++ Crappy
+
+> Diputuskan
+***
++ Adjudged
+
+> Ketajaman 
+***
++ Acumen
+
+> Tak Tertembus
+***
++ Impregnable
+
+> Memanfaatkan 
+***
++ Capitalize
+
+> Tak Terkendali 
+***
++ Unbridled
+
+> Pusat Perhatian 
+***
++ Limelight
+
+> Membengkak 
+***
++ Swelled
+
+> Digagalkan 
+***
++ Foiled
+
+> Keresahan
+***
++ Unrest
+
+> Tengkuk
+***
++ Scruff
+
+> Padang Rumput 
+***
++ Meadow
+
+> Keras 
+***
++ Rigors
+
+> Dibanggakan
+***
++ Vaunted
+
+> Memohon 
+***
++ Beseeching
+
+> Gaun 
+***
++ Gowns
+
+> Dengan berapi api 
+***
++ Vehemently
+
+> Berkas 
+***
++ Sheaves
+
+> Nasib 
+***
++ Fared
+
+> Berdesak desakan 
+***
++ Jostling
+
+> Kemauan 
+***
++ Volition
+
+> Menghambat
+***
++ Hampering
+
+> Terpesona
+***
++ Mesmerized
+
+> Pertikaian 
+***
++ Infighting
+
+> Paling Kesal 
+***
++ Grouchiest
+
+> Menggairahkan 
+***
++ Lasvicious
+
+> Keahlian 
+***
++ Forte
+
+> Mengacak Ngacak 
+***
++ Ruffle
+
+> Pelindung 
+***
++ Visor
+
+> Rayap 
+***
++ Termites
+
+> Dirahasiakan 
+***
++ Withheld
+
+> Konsep 
+***
++ Draft
+
+> Kebiasaan 
+***
++ Rut
