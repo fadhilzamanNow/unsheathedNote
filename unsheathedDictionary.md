@@ -1121,6 +1121,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Memeras (dengan cara yang curang)
 ***
 + Extorted
++ Racking
 
 > Mengambil
 ***
@@ -5409,3 +5410,100 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Pakaian 
 ***
 + Garb
+
+> Cerdas 
+***
++ Savvy
+
+> Adat 
+***
++ Customary
+
+> Berhubungan 
+***
++ Connate
+
+> Guci 
+***
++ Urn
+
+> Hama 
+***
++ Vermin
+
+> Tekuk 
+***
++ Buckling
+
+> Diabadikan 
+***
++ Enshrined
+
+> Dibentangkan 
+***
++ Unfurled
+
+> Tenteram 
+***
++ Tenterhooks
+
+> Secara Rakus 
+***
++ Ravenously
+
+> Biasa Saja 
+***
++ Lukewarm
+
+> Tetesan Embun 
+***
++ Dewdrop
+
+> Teriakan 
+***
++ Hoots
+
+> Watak 
+***
++ Disposition
+
+> Seluk Beluk 
+***
++ Subtleties
+
+> Kasar 
+***
++ Boorish
+
+> Perlindungan 
+***
++ Patronage
+
+> Imbalan 
+***
++ Renumeration
+
+> Nyaring 
+***
++ Sonorous
+
+> Membubarkan 
+***
++ Dispersing
+
+> Pengurus 
+***
++ Concierge
+
+> Berjasa 
+***
++ Meritorious
+
+> Jujur 
+***
++ Forthright
+
+> Sekilas 
+***
++ Cursory 
+
