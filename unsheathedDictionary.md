@@ -311,7 +311,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 *** 
 + Lawn
 
-> Gak Peduli (Bahagia)
+> Gak Peduli (Bahagia) / Sembrono
 ***
 + Frivolous
 
@@ -707,7 +707,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Immersed
 
-> Menggerakan dengan halus
+> Menggerakan dengan halus / Meluncur
 ***
 + Slid
 
@@ -2328,7 +2328,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Jutting
 
-> Membengkok dengan Mudah
+> Membengkok dengan Mudah / Lentur
 ***
 + Lithe
 
@@ -2336,6 +2336,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Lavish 
 + Opulent
++ Sumptous
 
 > Sesuatu kejadian yang dapat dijadikan contoh
 ***
@@ -2512,6 +2513,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Siasat Licik
 ***
 + Wiles
++ Crafty
 
 > Tidak Menarik dan Tidak Ramah
 ***
@@ -4609,6 +4611,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Unblemished
 + Impeccable
++ Infallible
 
 > Menyembur
 ***
@@ -5057,6 +5060,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Bacot 
 ***
 + Prattle
++ Blabbered
 
 > Murung 
 ***
@@ -5170,6 +5174,10 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Convicts
 
+> Menghukum 
+***
++ Convicting
+
 > Cukup
 ***
 + Ample
@@ -5225,7 +5233,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 
 > Penangguhan Hukuman 
 ***
-+ Repreive
++ Reprieve
 
 > Memperindah 
 ***
@@ -5622,6 +5630,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Terpesona
 ***
 + Mesmerized
++ Enthralled
 
 > Pertikaian 
 ***
@@ -5662,3 +5671,172 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Kebiasaan 
 ***
 + Rut
+
+> Oxen 
+***
++ Lembu 
+
+> Membajak 
+***
++ Plowing
+
+> Sepatutnya
+***
++ Duly
+
+> Mengeluarkan Isi Perut 
+***
++ Disembowel
+
+> Menyerang 
+***
++ Lash out
+
+> Hilang 
+***
++ Foregone
+
+> Fatamorgana 
+***
++ Mirages
+
+> Longsor 
+***
++ Avalance
+
+> Ditambatkan 
+***
++ Moored
+
+> Dahulu Kala 
+***
++ Yore
+
+> Tanggul 
+***
++ Embankment
+
+> Kubah 
+***
++ Dome
+
+> Persetubuhan
+***
++ Copulation
+
+> Sakit 
+***
++ Ached
+
+> Racun 
+***
++ Miasma
+
+> Tidak Sesuai 
+***
++ Nonconforming
+
+> Tidak dapat didamaikan 
+***
++ Irreconcilable
+
+> Jorok 
+***
++ Slovenly
+
+> Sok Tahu 
+***
++ Supercilious
+
+> Kabur / Buram 
+***
++ Hazy
+
+> Penghormatan 
+***
++ Homage
+
+> Sawi 
+***
++ Mustard
+
+> Lantai 
+***
++ Storeys
+
+> Lemari 
+***
++ Cabinets
+
+> Dicatatkan 
+***
++ Annotated
+
+> Pemberontakan 
+***
++ Uprising
+
+> Gagah 
+***
++ Dashing
+
+> Dijajahi
+***
++ Crammed
+
+> Dahak 
+***
++ Phlegm
+
+> Peremajaan
+***
++ Rejuvenation
+
+> Perubahan Kasar Pada Tekanan dan Kecepatan 
+***
++ Turbulent
+
+> Sementara 
+***
++ Transient
+
+> Tidak Ternoda 
+***
++ Unsullied
+
+> Bersikeras 
+***
++ Adamant
+
+> Boros 
+***
++ Profligate
+
+> Penikmat 
+***
++ Connoiseur
+
+> Bubur 
+***
++ Mush
+
+> Menyesuaikan Diri 
+***
++ AcctimatizedF
+
+> Jalan Lalu Lintas 
+***
++ Carriageway
+
+> Menakjubkan 
+***
++ Wondrous
+
+> Teman Bicara 
+***
++ Interlocutor
+
+> Pijar (mengeluarkan cahaya)
+***
++ Incandescent
+
