@@ -401,6 +401,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 + Peeved
 + Aggravated
 + Piqued
++ Vexed
 
 > Mengintip
 ***
@@ -822,6 +823,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Belittling
 + Slighted
++ Downplaying
 
 > Menepis
 ***
@@ -1052,6 +1054,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Bergejolak
 ***
 + Upheaval
++ Churning
 
 > Bergetar hebat
 ***
@@ -1866,7 +1869,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Willow
 
-> Sesuatu yang Menyulitkan 
+> Sesuatu yang Menyulitkan / Merepotkan
 ***
 + Hassle
 
@@ -2484,7 +2487,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Far Fetched
 
-> Seseorang yang mudah dibujuk
+> Seseorang yang mudah dibujuk / Dirugikan
 ***
 + Pushover
 
@@ -3232,6 +3235,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Enclosed
 + Wreath
++ Interspersed
 
 > Tidak Masuk Akal
 ***
@@ -3984,7 +3988,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 
 > Menimpa  
 ***
-+ Plagued
++ Plagued (mengganggu)
 + Afflict
 
 > Terjebak 
@@ -4164,9 +4168,10 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Farce
 
-> Mengikuti Jalan
+> Mengikuti Jalan / Berkelok Kelok
 ***
 + Meanders
++ Winding
 
 > Seluruhnya
 ***
@@ -4612,6 +4617,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 + Unblemished
 + Impeccable
 + Infallible
++ Consummate
 
 > Menyembur
 ***
@@ -4894,6 +4900,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Mengotak Ngatik
 ***
 + Fiddling
++ Wacked on
 
 > Dipahat
 ***
@@ -5347,7 +5354,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Unforeseen
 
-> Cegukan 
+> Cegukan / Tersendat Sendat
 ***
 + Hiccup
 
@@ -5840,3 +5847,206 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Incandescent
 
+> Mereda 
+***
++ Abate
+
+> Membebaskan 
+***
++ Absolve
+
+> Menguap 
+***
++ Yawing
+
+> Bejat 
+***
++ Depraved
+
+> Anugerah 
+***
++ Boon
+
+> Menggadaikan 
+***
++ Pawning off
+
+> Rambut Pendek / Di Janggut 
+***
++ Stubble
+
+> Genit 
+***
++ Coquettishly
+
+> Papan 
+***
++ Planchette
+
+> Tenda 
+***
++ Awn
+
+> Mengunyah 
+***
++ Chomped Down
+
+> Pedas 
+***
++ Scathing
+
+> Di belakang mereka 
+***
++ In their wake
+
+> Senja 
+***
++ Twilight
+
+> Jarang
+***
++ Sparse
+
+> Bersembunyi / Mengendap Ngendap 
+***
++ Skulking
+
+> Labu 
+***
++ Gourd
+
+> Berhembus 
+***
++ Gust
+
+> Ahli 
+***
++ Jack
+
+> Ayam 
+***
++ Chook
+
+> Mengacungkan 
+***
++ Brandish
+
+> Asli 
+***
++ Kinesis
+
+> Hantu 
+***
++ Wraith
+
+> Berjingkrak Jingkrak 
+***
++ Plancing
+
+> Dibelah 
+***
++ Cleave
+
+> Tipu Muslihat 
+***
++ Ruse
+
+> Dicekoki
+***
++ Mollycoddled
+
+> Kuyu 
+***
++ Haggard
+
+> Celuk / Peran / Kesempatan 
+***
++ Niche
+
+> Gesekan 
+***
++ Attrition
+
+> Menggangga 
+***
++ Agape
+
+> Tambahan 
+***
++ Collateral
+
+> Tamasya 
+***
++ Outing
+
+> Dicukur 
+***
++ Shorn
+
+> Dedaunan 
+***
++ Foliage
+
+> Kegilaan
+***
++ Infatuation
+
+> Kecil 
+***
++ Niggling
+
+> Dianiaya
+***
++ Mauled
+
+> Dipatuk 
+***
++ Pecked
+
+> Kepompong 
+***
++ Cocoon
+
+> Gudang 
+***
++ Arsenal
+
+> Terlambat 
+***
++ Belatedly
+
+> Menampakkan 
+***
++ Bare
+
+> Penyebrangan 
+***
++ Crisscrossing
+
+> Otek 
+***
++ Millet
+
+> Dingin 
+***
++ Frigid
+
+> Menerjang 
+***
++ Braving
+
+> Dengan biasa / Dengan Santai 
+***
++ Wacked on
+
+> Mengerikan 
+***
++ Grisly
+
+> Halangan 
+***
++ Impediment
+
+> Berpikir tidak baik dengan tidak percaya dan curiga thdp orang lain 
+***
++ Paranoia
