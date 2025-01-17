@@ -231,7 +231,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 
 > Merangkak
 ***
-+ Crawled
++ Crawled (merinding)
 
 > Tajam 
 ***
@@ -280,6 +280,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 + Stride (Melangkah)
 + Stroll (Jalan)
 + Scurried (Jalan dengan langkah kecil)
++ Strut
 
 > Mengepul
 ***
@@ -413,6 +414,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 + Fawning(berlebihan dalam memuji)
 + Flattery
 + Butter up
++ Sychophantic
 
 > Cerita
 ***
@@ -2062,7 +2064,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Impudence
 
-> Kejadian yang tiba tiba 
+> Kejadian yang tiba tiba / serentak
 ***
 + Flurries (kesibukan)
 
@@ -3170,6 +3172,10 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 + Derision (dengan cemoohan)
 + Derided
 
+> Menghina 
+***
++ Contemptous
+
 > Permintaan secara sungguh sungguh
 ***
 + Plea
@@ -3322,7 +3328,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Sleek
 
-> Mengakhiri
+> Mengakhiri / Memadamkan
 ***
 + Quell
 
@@ -3772,6 +3778,10 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Scuttled
 
+> Perkelahian 
+***
++ Scuffled
+
 > Keinginan yang tidak dapat ditahan
 ***
 + Compulsive
@@ -4131,6 +4141,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Fissures
 + Crevice
++ Slits
 
 > Kurungan 
 ***
@@ -6050,3 +6061,255 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Berpikir tidak baik dengan tidak percaya dan curiga thdp orang lain 
 ***
 + Paranoia
+
+> Melampaui 
+***
++ Trascend
+
+> Tanpa Pamrih 
+***
++ To selflessly
+
+> Penebang Hutan 
+***
++ Lumberjack
+
+> Ingin tahu 
+***
++ Inquisitive
+
+> Penipu 
+***
++ Rogue
+
+> Buronan 
+***
++ Fugitive
+
+> Menyesuaikan 
+***
++ Acclimate
+
+> Desakan 
+***
++ Insistence
+
+> Kasar 
+***
++ Crass
+
+> Menyalin 
+***
++ Transcribe
+
+> Dilimpahkan / Menjadi 
+***
++ Devolved
+
+> Dijarah 
+***
++ Pallage
+
+> Mendalam 
+***
++ Visceral
+
+> Remah Remah 
+***
++ Crumbs
+
+> Dilanda Perang 
+***
++ War-torn
+
+> Bersalah 
+***
++ Culpable
+
+> Bergulat 
+***
++ Grappling
+
+> Dikurangi
+***
++ Curtailed
+
+> Sembarangan 
+***
++ Flippant
+
+> Pelacur 
+***
++ Whores
+
+> Pemarah 
+***
++ Petulant
+
+> Kepala Biara 
+***
++ Abbots
+
+> Dirugikan 
+***
++ Adversely
+
+> Mendengus / Mengembuskan Napas Kuat Kuat 
+***
++ Grunting
+
+> Ditafsirkan 
+***
++ Construed
+
+> Tidak Terlatih 
+***
++ Unrehearsed
+
+> Mempertahankan 
+***
++ Espouse
+
+> Membangkitkan 
+***
++ Rouse
+
+> Membingungkan 
+***
++ Confounding
+
+> Terbuka 
+***
++ Ajar
+
+> Menunggang Kuda 
+***
++ Horseback
+
+> Melenggang 
+***
++ Saunter
+
+> Kecapi (semacam gitar tapi cina)
+***
++ Lute
+
+> Menarik Setring 
+***
++ Strum
+
+> Gumpalan
+***
++ Globule
+
+> Parit 
+***
++ Trenches
+
+> Mencolok
+***
++ Ostentatious
+
+> Pengasingan 
+***
++ Stint
+
+> Tegang 
+***
++ Strained
+
+> Musang 
+***
++ Weasels
+
+> Mancung
+***
++ Aquiline
+
+> Jelas 
+***
++ Vivid
+
+> Menyenangkan / Mengambil Hati 
+***
++ Ingratiating
+
+> Tidak Dapat Ditebus 
+***
++ Irredeemably
+
+> Pisang Raja 
+***
++ Plantain
+
+> Sedikit 
+***
++ Scant
+
+> Sangat Buruk 
+***
++ Abysmal
+
+> Kencang
+***
++ Taut
+
+> Menggeleng geleng
+***
++ Bobbled
+
+> Bubungan 
+***
++ Ridge
+
+> Prasangka 
+***
++ Prejudice
+
+> Tidak Senang 
+***
++ Disconsolate
+
+> Menahan 
+***
++ Choking
+
+> Dibayangkan 
+***
++ Conceivable
+
+> Berputar Putar
+***
++ Swirled
+
+> Menyatu 
+***
++ To Mesh
+
+> Urat
+***
++ Vein
+
+> Berputar Putar 
+***
++ Pirouetting
+
+> Manset 
+***
++ Cuff
+
+> Menahan / Tidak Mengambil Tindakan 
+***
++ Abstain
+
+> Terus Terang 
+***
++ Forthright
+
+> Menyentuh Hati 
+***
++ Heartfelt
+
+> Menggeliat 
+***
++ Writhed
