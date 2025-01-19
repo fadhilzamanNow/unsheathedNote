@@ -25,8 +25,21 @@
 + Woman (who cook on the rent inn)
 + Mother-in-law (who owned the rent inn)
 + Cao Qinglang (son of the mother)
-+ Emaciated Little Girl
++ Emaciated Little Girl (Pei Qian)
 + Qian Tang
 + Zhou Shuzhen( Yu Zhenyi's wife)
 + Cheng Yuanshan (8th qi refiner) 
 + Liu Zong
+
+> Fox Town 
++ Wei Xian (First Emperor of Southern Garden Nation)
++ Jiu Niang (Owner of the small Inn near Fox Town)
++ Ma Ping (Constable of Fox Town)
++ Xu Tong (esteemed immortal with red hat)
++ Gao Shuyi (prince candidate of great quan empire)
++ Li Li (eunuch ofgreat quan empire)
++ Xu Qingzhou (general in silver armor)
++ Liu Mao (third prince of great quan empire)
++ Liu Zhen (emperor of the great quan empire)
++ Yao Zhen (Yao Clan Ancestral)
++ Li Xiling (Yao Zhen son-in-law)

@@ -84,7 +84,6 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Plop
 
-
 > Memikat
 ***
 + Bewitching
@@ -721,10 +720,6 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Tidak Menyenangkan
 ***
 + Unsavory
-
-> Skirmish
-***
-+ Peperangan
 
 > Jalan Besar
 ***
@@ -1944,7 +1939,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Dismembered
 
-> Mengarahkan Seseorang 
+> Mengarahkan Seseorang / Disalurkan
 ***
 + Funneled
 
@@ -2005,6 +2000,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Meratap
 ***
 + Wail
++ Bemoaning
 
 > Kesedihan
 ***
@@ -5649,6 +5645,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Mesmerized
 + Enthralled
++ Enraptured
 
 > Pertikaian 
 ***
@@ -6045,6 +6042,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Menerjang 
 ***
 + Braving
++ Lunged
 
 > Dengan biasa / Dengan Santai 
 ***
@@ -6157,6 +6155,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Mendengus / Mengembuskan Napas Kuat Kuat 
 ***
 + Grunting
++ Sniggered
 
 > Ditafsirkan 
 ***
@@ -6209,6 +6208,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Mencolok
 ***
 + Ostentatious
++ Flagrant
 
 > Pengasingan 
 ***
@@ -6313,3 +6313,183 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Menggeliat 
 ***
 + Writhed
+
+> Berapi api 
+***
++ Impassioned
+
+> Memonopoli
+***
++ Hogged
+
+> Mengakar
+***
++ Entrenched
+
+> Menarik Kembali (senjata)
+***
++ Yanking Back
+
+> Keadaan (Penderitaan)
+***
++ Plight
+
+> Tersumbat 
+***
++ Clogged
+
+> Tempat Pembakaran 
+***
++ Kiln
+
+> Mengalir 
+***
++ Tunneling
+
+> Irisan 
+***
++ Incision
+
+> Meminum
+***
++ Lap up
+
+> Tidak Pernah Puas 
+***
++ Insatiably
+
+> Menyeruput 
+***
++ Slurping up
+
+> Mencambuk 
+***
++ Caning
+
+> Kewaspadaan
+***
++ Vigilance
+
+> Tidak Mampu 
+***
++ Incapacitated
+
+> Menjarah 
+***
++ Pillage
+
+> Menyalak / Merengek 
+***
++ Yelped
+
+> Berdeguk / Bergemericik 
+***
++ Gurgled
+
+> Kepingan Salju 
+***
++ Snowflakes
+
+> Menggembar Gemborkan 
+***
++ Herlading
+
+> Melimpah 
+***
++ Bountiful
+
+> Melamun
+***
++ Zone out
+
+> Menyita 
+***
++ Confiscated
+
+> Didebatkan (sesuatu)
+***
++ Contentious
+
+> Meronta Ronta 
+***
++ Thrash
+
+> Pengangkut 
+***
++ Haulers
+
+> Dupa 
+***
++ Joss
+
+> Minyak
+***
++ Grease
+
+> Polisi 
+***
++ Constable
+
+> Ketajaman
+***
++ Incisiveness
+
+> Kandang
+***
++ Kennel
+
+> Titik Fokus 
+***
++ Focal Point
+
+> Menggelikan
+***
++ Ludicrously
+
+> Pemberontakan 
+***
++ Revolt
+
+> Buih
+***
++ Froth
+
+> Jatuh 
+***
++ Crumple
+
+> Kukuh
+***
++ Staunch
+
+> Menyiksa
+***
++ Turtourous
+
+> Kebohongan
+***
++ Fibs
+
+> Didn't beat around the bush 
+***
++ Tidak Bertele tele
+
+> Lorong 
+***
++ Hallway
+
+> Mencari Makan 
+***
++ To Forage
+
+> Casting 
+***
++ Pengecoran
+
+> Gaya Berjalan
+***
++ Gait
+
+> Membatalkan 
+***
++ To Scrap
