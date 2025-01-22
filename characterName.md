@@ -43,3 +43,10 @@
 + Liu Zhen (emperor of the great quan empire)
 + Yao Zhen (Yao Clan Ancestral)
 + Li Xiling (Yao Zhen son-in-law)
+
++ Yin Maofeng ()
++ Shao Yuanran (Disciple of Yin Maofeng)
++ Du Hanling (Temple Master of Golden Summit Daoist Temple)
++ Gao Shizhen (Gao Shouyi Dad)
++ Brawny Man
++ Old Man (Wang Qi)

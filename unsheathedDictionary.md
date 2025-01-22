@@ -2135,6 +2135,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Memuji
 ***
 + Lauds
++ Extrolled
 
 > Tenang
 ***
@@ -2267,7 +2268,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Commence
 
-> Tidak Disetujui
+> Tidak Disetujui / Mengerutkan Kening
 ***
 + Frowned Upon
 
@@ -2871,6 +2872,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Alluding
 + Beckoned
++ Cue
 
 > Kurang Ajar
 ***
@@ -3241,7 +3243,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 
 > Tidak Masuk Akal
 ***
-+ Far-fetched
++ Far-fetched (mengada ngaada)
 + Implausible
 
 > Bertahan
@@ -3506,6 +3508,10 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Mengulurkan Leher
 ***
 + Cranes
+
+> Burung Bangau 
+*** 
++ Crane 
 
 > Bertambah terus
 ***
@@ -4851,6 +4857,8 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Menodai / Merusak
 ***
 + Defile
++ To Sully
++ Corrode
 
 > Kedengkian
 ***
@@ -4998,7 +5006,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Pawnshop
 
-> Barang Antik 
+> Barang Antik / Koleksi
 ***
 + Curio
 
@@ -6349,6 +6357,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Irisan 
 ***
 + Incision
++ Wedge
 
 > Meminum
 ***
@@ -6493,3 +6502,228 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Membatalkan 
 ***
 + To Scrap
+
+> Negara Bagian Bawah 
+***
++ Vassal State
+
+> Memadatkan 
+***
++ Squish
+
+> Keliling
+***
++ Roving
+
+> Ziarah
+***
++ Pilgrimage
+
+> Bubur 
+***
++ Congee
+
+> Mengelilingi 
+***
++ Encircle
+
+> Mengabadikan 
+***
++ Enshrine
+
+> Beterima Kasih Sebesar Besarnya 
+*** 
++ Profusely Thank
+
+> Melakukan Dengan Cepat 
+***
++ Doth
+
+> Tongkat 
+***
++ Cane
+
+> Keributan 
+***
++ Ruckus
+
+> Secara Alami 
+***
++ Innately
+
+> Penggilingan
+***
++ Milling
+
+> Cocok / Sesuai
+***
++ Apt
+
+> Sholeh 
+***
++ Pious
+
+> Membenci 
+***
++ Abhorred
+
+> Grogi 
+***
++ Groggy
+
+> Sendok 
+***
++ Ladle
+
+> Lambang 
+***
++ Epitome
+
+> Mengamuk 
+***
++ Ran Amok
+
+> Tongkat 
+***
++ Crane 
++ Gavel
+
+> Dengan Malu Malu 
+***
++ Abashedly
+
+> Miring 
+***
++ Wonky
+
+> Berseri Seri 
+***
++ Beaming
+
+> Memancarkan 
+***
++ Cast
+
+> Berbintang 
+***
++ Starry
+
+> Pembantaian
+***
++ Carnage
+
+> Kebangkitan 
+***
++ Resurgence
+
+> Tidak Terganggu
+***
++ Unpertubed
+
+> Biara 
+***
++ Convent
+
+> Jahitan 
+***
++ Seams
+
+> Bergairah
+***
++ Ardent
+
+> Memantul 
+***
++ Ricochet
+
+> Penipu / Palsu
+***
++ Phony
+
+> Meninggalkan 
+***
++ Renounced
+
+> Tanpa Hambatan 
+***
++ Unimpended
+
+> Kemauan 
+***
++ Accord
+
+> Memimpin 
+***
++ Preside
+
+> Terlebih Dahulu 
+***
++ Pre emptively
+
+> Menangis 
+***
++ Fend
+
+> Berkeliaran 
+***
++ Prowling
+
+> Penghentian 
+***
++ Cessation
+
+> Kehilangan 
+***
++ Forfeit
+
+> Tumpul 
+***
++ Obtuse
+
+> Terlambat 
+***
++ Tardy
+
+> Bergerak Gerak 
+***
++ Twitch
+
+> Dirusak 
+***
++ Blighted
+
+> Palsu 
+***
++ Travesty
+
+> Tidak Berperasaan
+***
++ Callous
+
+> Teka Teki 
+***
++ Conundrum
+
+> Bajingan 
+***
++ Ruffians
+
+> Kesayangan 
+***
++ Cherished
+
+> Tulang Kering 
+***
++ Shin
+
+> Mengansingkan 
+***
++ Alienating
+
+> Pepatah 
+***
++ Adage
+
+> Teladan 
+***
++ Exemplary
