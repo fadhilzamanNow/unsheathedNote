@@ -3650,7 +3650,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Exorbitant
 
-> Membengkokan dengan mudah dan indah
+> Membengkokan dengan mudah dan indah / lentur
 ***
 + Supple
 
@@ -4561,7 +4561,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Scab
 
-> Kebencian
+> Kebencian / Dirugikan
 ***
 + Aggrieved
 
@@ -6667,6 +6667,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Berkeliaran 
 ***
 + Prowling
++ Loitering
 
 > Penghentian 
 ***
@@ -6694,7 +6695,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 
 > Palsu 
 ***
-+ Travesty
++ Travesty (mengolok ngolok)
 
 > Tidak Berperasaan
 ***
@@ -6727,3 +6728,99 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Teladan 
 ***
 + Exemplary
+
+> Kaldu 
+***
++ Broth
+
+> Kecelakaan 
+***
++ Mishap
+
+> Pembangkang 
+***
++ Dissenter
+
+> Kenang Kenangan 
+***
++ Keepsake
+
+> Kecil 
+***
++ Diminutive
+
+> Berkubang 
+***
++ Wallow
+
+> Memudar 
+***
++ Wanes
+
+> Tabur 
+***
++ Sow
+
+> Amukan 
+***
++ Rampage
+
+> Menjulang 
+***
++ Looming
+
+> Melatih 
+***
++ Ingrain
+
+> Anyaman 
+***
++ Wicker
+
+> Menandai 
+***
++ Heralded
+
+> Penyambutan 
+***
++ Vigil
+
+> Jahat 
+***
++ Nefarious
+
+> Tunggul 
+***
++ Stubble
+
+> Yang tidak diminta 
+***
++ Unsolicited
+
+> Meraup 
+***
++ Raked
+
+> Tertidur 
+***
++ Slumbered
+
+> Menggumpal 
+***
++ Clumped
+
+> Berhenti 
+***
++ Keel
+
+> Bertepuk Sebelah Tangan 
+***
++ Backhand
+
+> Kebenarannya 
+***
++ Veracity
+
+> Berbicara 
+***
++ Teethering
