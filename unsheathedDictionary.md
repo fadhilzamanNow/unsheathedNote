@@ -468,7 +468,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Vile
 + Repulsive
-+ Loathing
++ Loathing (benci)
 + Abhorrent
 + Curdling
 
@@ -627,6 +627,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Fuss
 + Fray
++ Uproar
 
 > Kepala yang jatuh terlebih dahulu
 ***
@@ -6407,7 +6408,7 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 ***
 + Bountiful
 
-> Melamun
+> Melamun / Beristirahats
 ***
 + Zone out
 
@@ -6824,3 +6825,139 @@ Translate based on [Gemini](www.gemini.google.com) and [ChatGPT](www.chatgpt.com
 > Berbicara 
 ***
 + Teethering
+
+> Merusak 
+***
++ Deface
+
+> Berlekuk Lekuk
+***
++ Squiggly
+
+> Bangsawan 
+***
++ Aristocrats
+
+> Sehelai 
+***
++ Spiel
+
+> Semak 
+***
++ Thicket
+
+> Membutkikan 
+***
++ Attest
+
+> Tidak Praktis
+***
++ Cumbersome
+
+> Mengemukakan 
+***
++ Posits
+
+> Pucat 
+***
++ Pallid
+
+> Pincang
+***
++ Limped
+
+> Badai Salju 
+***
++ Blizzard
+
+> Secara Tidak Wajar 
+***
++ Morbidly
+
+> Budak 
+***
++ Servile
+
+> Berlebihan 
+***
++ Overboard
+
+> Permaisuri
+***
++ Consort
+
+> Menyerang Secara Paksa 
+***
++ Whack
+
+> Omong Kosong 
+***
++ Drivel
+
+> Bergetar 
+***
++ Quivered
+
+> Melakukan
+***
++ To Cop
+
+> Mencabut 
+***
++ Uproot
+
+> Terukir
+***
++ Etched
+
+> Mengedipkan
+***
++ Winking
+
+> Mengobarkan 
+***
++ Fomented
+
+> Pesan
+***
++ Commissioned
+
+> Menyetujui 
+***
++ Acquiescing
+
+> Melengkung 
+***
++ Arced
+
+> Lambung 
+***
++ Hull
+
+> Melengking 
+***
++ Screeched
+
+> Terang Terangan 
+***
++ Flagrantly
+
+> Tambahan 
+***
++ Incentivize
+
+> Mengais Ngais 
+***
++ Scrounged
+
+> Menggosok
+***
++ Scrub
+
+> Mengibas / Skip 
+***
++ Wag
+
+> Pembolosan 
+***
++ Truancyf
